@@ -1,0 +1,10 @@
+name,currency,sector,industry,market_cap,dscr,interest_coverage,debt_ebitda,current_ratio,dscr_score,interest_coverage_score,debt_ebitda_score,current_ratio_score,total_score,rating,risk_band,decision,reason_codes,ticker
+Kina Securities Limited,AUD,Financial Services,Financial Conglomerates,363277536,,,,,0,0,0,0,,NR,Unknown,Unknown,Insufficient financial data to score (missing key line items/ratios).,KSL.AX
+BSP Financial Group Limited,AUD,Financial Services,Banks - Regional,3782700288,,,,,0,0,0,0,,NR,Unknown,Unknown,Insufficient financial data to score (missing key line items/ratios).,BFL.AX
+DIGICO INF STAPLED [DGT],AUD,Real Estate,REIT - Specialty,1522136320,,,,,0,0,0,0,,NR,Unknown,Unknown,Insufficient financial data to score (missing key line items/ratios).,DGT.AX
+Elanor Investors Group,AUD,Financial Services,Asset Management,114656400,,,,,0,0,0,0,,NR,Unknown,Unknown,Insufficient financial data to score (missing key line items/ratios).,ENN.AX
+Aims Property Securities Fund,AUD,Real Estate,REIT - Diversified,138899280,,,,,0,0,0,0,,NR,Unknown,Unknown,Insufficient financial data to score (missing key line items/ratios).,APW.AX
+InvestSMART Group Limited,AUD,Financial Services,Financial Conglomerates,17066296,,,,,0,0,0,0,,NR,Unknown,Unknown,Insufficient financial data to score (missing key line items/ratios).,INV.AX
+QBE Insurance Group Limited,AUD,Financial Services,Insurance - Property & Casualty,29901897728,,11.14,,,0,5,0,0,5.0,AAA,Low,Unknown,Insufficient financial data to score (missing key line items/ratios).,QBE.AX
+Alternative Investment Trust,AUD,Financial Services,Asset Management,50327992,,,,,0,0,0,0,,NR,Unknown,Unknown,Insufficient financial data to score (missing key line items/ratios).,AIQ.AX
+Lion Selection Group Limited,AUD,Basic Materials,Gold,141097296,,,,,0,0,0,0,,NR,Unknown,Unknown,Insufficient financial data to score (missing key line items/ratios).,LSX.AX

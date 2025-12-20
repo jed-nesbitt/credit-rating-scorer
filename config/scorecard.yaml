@@ -1,0 +1,61 @@
+# config/scorecard.yaml
+
+weights:
+  dscr: 0.35
+  debt_ebitda: 0.30
+  current_ratio: 0.20
+  interest_coverage: 0.15
+
+metrics:
+  dscr:
+    direction: higher_is_better
+    bands:
+      - {min: 2.0, score: 5}
+      - {min: 1.5, score: 4}
+      - {min: 1.2, score: 3}
+      - {min: 1.0, score: 2}
+      - {min: -1000000000, score: 1}
+
+  interest_coverage:
+    direction: higher_is_better
+    bands:
+      - {min: 5.0, score: 5}
+      - {min: 4.0, score: 4}
+      - {min: 2.5, score: 3}
+      - {min: 1.5, score: 2}
+      - {min: -1000000000, score: 1}
+
+  debt_ebitda:
+    direction: lower_is_better
+    bands:
+      - {max: 1.0, score: 5}
+      - {max: 2.0, score: 4}
+      - {max: 3.5, score: 3}
+      - {max: 5.0, score: 2}
+      - {max: 1000000000, score: 1}
+
+  current_ratio:
+    direction: higher_is_better
+    bands:
+      - {min: 2.0, score: 5}
+      - {min: 1.5, score: 4}
+      - {min: 1.2, score: 3}
+      - {min: 1.0, score: 2}
+      - {min: -1000000000, score: 1}
+
+ratings:
+  - {min: 4.5, rating: AAA, band: Low}
+  - {min: 4.0, rating: AA, band: Low}
+  - {min: 3.5, rating: A, band: Low}
+  - {min: 3.0, rating: BBB, band: Medium}
+  - {min: 2.5, rating: BB, band: Medium}
+  - {min: 2.0, rating: B, band: High}
+  - {min: -1000000000, rating: CCC, band: High}
+
+policy:
+  approve_min_score: 3.5
+  review_min_score: 2.8
+  min_metrics_for_decision: 2   # <2 => Unknown (not Decline)
+  hard_breaches:
+    - {metric: dscr, op: "<", value: 1.0, reason: "DSCR below 1.0x"}
+    - {metric: interest_coverage, op: "<", value: 1.5, reason: "Interest coverage below 1.5x"}

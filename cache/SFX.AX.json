@@ -1,0 +1,14 @@
+{
+  "name": "Sheffield Resources Limited",
+  "currency": "AUD",
+  "sector": "Basic Materials",
+  "industry": "Other Industrial Metals & Mining",
+  "market_cap": 26895858,
+  "ebitda": -22048000.0,
+  "ebit": -22048000.0,
+  "interest_expense": 2000.0,
+  "total_debt": NaN,
+  "current_assets": NaN,
+  "current_liabilities": NaN,
+  "annual_debt_service": 2000.0
+}
