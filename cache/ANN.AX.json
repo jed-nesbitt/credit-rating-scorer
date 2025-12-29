@@ -1,0 +1,15 @@
+{
+  "name": "Ansell Limited",
+  "currency": "AUD",
+  "sector": "Healthcare",
+  "industry": "Medical Instruments & Supplies",
+  "market_cap": 5086998528,
+  "ebitda": 260200000.0,
+  "ebit": 185400000.0,
+  "interest_expense": 41500000.0,
+  "total_debt": 805600000.0,
+  "current_assets": 1110800000.0,
+  "current_liabilities": 522000000.0001,
+  "annual_debt_service": 158800000.0,
+  "_cache_version": 2
+}

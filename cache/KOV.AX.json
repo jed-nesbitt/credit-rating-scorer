@@ -1,0 +1,15 @@
+{
+  "name": "Korvest Ltd",
+  "currency": "AUD",
+  "sector": "Industrials",
+  "industry": "Metal Fabrication",
+  "market_cap": 165656240,
+  "ebitda": 18261000.0,
+  "ebit": 15000000.0,
+  "interest_expense": NaN,
+  "total_debt": 9882000.0,
+  "current_assets": 54339000.0,
+  "current_liabilities": 18102000.0,
+  "annual_debt_service": 494100.0,
+  "_cache_version": 2
+}

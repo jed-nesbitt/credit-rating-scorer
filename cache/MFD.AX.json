@@ -3,12 +3,13 @@
   "currency": "AUD",
   "sector": "Consumer Cyclical",
   "industry": "Personal Services",
-  "market_cap": 36203812,
+  "market_cap": 36580936,
   "ebitda": 17536183.0,
   "ebit": 5568750.0,
   "interest_expense": 5275964.0,
   "total_debt": 168628683.0,
-  "current_assets": NaN,
-  "current_liabilities": NaN,
-  "annual_debt_service": 6083360.0
+  "current_assets": 3435722.0,
+  "current_liabilities": 26682327.0,
+  "annual_debt_service": 6083360.0,
+  "_cache_version": 2
 }

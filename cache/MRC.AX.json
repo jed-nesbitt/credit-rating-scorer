@@ -1,0 +1,15 @@
+{
+  "name": "Mineral Commodities Ltd",
+  "currency": "AUD",
+  "sector": "Basic Materials",
+  "industry": "Other Industrial Metals & Mining",
+  "market_cap": 25596288,
+  "ebitda": -7517865.0,
+  "ebit": -14293486.0,
+  "interest_expense": 221108.0,
+  "total_debt": 8217328.0,
+  "current_assets": 62734341.0,
+  "current_liabilities": 31459166.9999,
+  "annual_debt_service": 3133901.0,
+  "_cache_version": 2
+}

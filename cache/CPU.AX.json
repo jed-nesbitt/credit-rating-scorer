@@ -1,0 +1,15 @@
+{
+  "name": "Computershare Limited",
+  "currency": "AUD",
+  "sector": "Financial Services",
+  "industry": "Capital Markets",
+  "market_cap": 20091531264,
+  "ebitda": 902832000.0,
+  "ebit": 902832000.0,
+  "interest_expense": 112102000.0,
+  "total_debt": 1921201000.0,
+  "current_assets": 2066442000.0,
+  "current_liabilities": 941255000.0,
+  "annual_debt_service": 419796000.0,
+  "_cache_version": 2
+}

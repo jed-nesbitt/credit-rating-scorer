@@ -8,7 +8,8 @@
   "ebit": -9320299.0,
   "interest_expense": 4034140.0,
   "total_debt": 12719334.0,
-  "current_assets": NaN,
-  "current_liabilities": NaN,
-  "annual_debt_service": 5655625.0
+  "current_assets": 2256959.0,
+  "current_liabilities": 20509944.0,
+  "annual_debt_service": 5655625.0,
+  "_cache_version": 2
 }

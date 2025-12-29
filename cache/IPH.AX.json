@@ -1,0 +1,15 @@
+{
+  "name": "IPH Limited",
+  "currency": "AUD",
+  "sector": "Industrials",
+  "industry": "Specialty Business Services",
+  "market_cap": 925641536,
+  "ebitda": 187100000.0,
+  "ebit": 115000000.0,
+  "interest_expense": 25400000.0,
+  "total_debt": 469700000.0,
+  "current_assets": 277500000.0,
+  "current_liabilities": 102000000.0,
+  "annual_debt_service": 276200000.0,
+  "_cache_version": 2
+}

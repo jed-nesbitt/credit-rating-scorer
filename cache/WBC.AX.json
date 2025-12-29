@@ -1,0 +1,15 @@
+{
+  "name": "Westpac Banking Corporation",
+  "currency": "AUD",
+  "sector": "Financial Services",
+  "industry": "Banks - Diversified",
+  "market_cap": 133077803008,
+  "ebitda": NaN,
+  "ebit": NaN,
+  "interest_expense": 35594000000.0,
+  "total_debt": 207167000000.0,
+  "current_assets": NaN,
+  "current_liabilities": NaN,
+  "annual_debt_service": 105067000000.0,
+  "_cache_version": 2
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Centuria Office REIT",
+  "currency": "AUD",
+  "sector": "Real Estate",
+  "industry": "REIT - Office",
+  "market_cap": 680963008,
+  "ebitda": 28888000.0,
+  "ebit": 28888000.0,
+  "interest_expense": 48668000.0,
+  "total_debt": 901522000.0,
+  "current_assets": 14943000.0,
+  "current_liabilities": 45244000.0,
+  "annual_debt_service": 93744100.0,
+  "_cache_version": 2
+}

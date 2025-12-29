@@ -1,0 +1,15 @@
+{
+  "name": "Savannah Goldfields Limited",
+  "currency": "AUD",
+  "sector": "Basic Materials",
+  "industry": "Gold",
+  "market_cap": 36406812,
+  "ebitda": -14473749.0,
+  "ebit": -16588180.0,
+  "interest_expense": 3985793.0,
+  "total_debt": 25295033.0,
+  "current_assets": 1564261.0,
+  "current_liabilities": 23645419.0,
+  "annual_debt_service": 5365603.0,
+  "_cache_version": 2
+}

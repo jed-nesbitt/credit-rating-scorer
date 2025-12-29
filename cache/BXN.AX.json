@@ -1,0 +1,15 @@
+{
+  "name": "Bioxyne Limited",
+  "currency": "AUD",
+  "sector": "Consumer Defensive",
+  "industry": "Packaged Foods",
+  "market_cap": 93468008,
+  "ebitda": -1658570.0,
+  "ebit": -1658570.0,
+  "interest_expense": NaN,
+  "total_debt": 673723.0,
+  "current_assets": 5585085.0,
+  "current_liabilities": 2907351.0,
+  "annual_debt_service": 33686.15,
+  "_cache_version": 2
+}

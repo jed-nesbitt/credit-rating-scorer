@@ -1,0 +1,15 @@
+{
+  "name": "CSL Limited",
+  "currency": "AUD",
+  "sector": "Healthcare",
+  "industry": "Biotechnology",
+  "market_cap": 83848716288,
+  "ebitda": 5134000000.0,
+  "ebit": 4117000000.0,
+  "interest_expense": 393000000.0,
+  "total_debt": 11498000000.0,
+  "current_assets": 11850000000.0,
+  "current_liabilities": 4814999999.9999,
+  "annual_debt_service": 1225000000.0,
+  "_cache_version": 2
+}

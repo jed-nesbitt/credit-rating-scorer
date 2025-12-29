@@ -1,0 +1,15 @@
+{
+  "name": "Meridian Energy Limited",
+  "currency": "AUD",
+  "sector": "Utilities",
+  "industry": "Utilities - Renewable",
+  "market_cap": 12738251776,
+  "ebitda": -89000000.0,
+  "ebit": -535000000.0,
+  "interest_expense": 84000000.0,
+  "total_debt": 1569000000.0,
+  "current_assets": 680000000.0,
+  "current_liabilities": 1035000000.0,
+  "annual_debt_service": 447000000.0,
+  "_cache_version": 2
+}

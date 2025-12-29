@@ -1,0 +1,15 @@
+{
+  "name": "Medallion Metals Limited",
+  "currency": "AUD",
+  "sector": "Basic Materials",
+  "industry": "Other Precious Metals & Mining",
+  "market_cap": 340391712,
+  "ebitda": -5852597.0,
+  "ebit": -5946580.0,
+  "interest_expense": 180159.0,
+  "total_debt": 2916410.0,
+  "current_assets": 9668189.0,
+  "current_liabilities": 1293619.0,
+  "annual_debt_service": 360318.0,
+  "_cache_version": 2
+}

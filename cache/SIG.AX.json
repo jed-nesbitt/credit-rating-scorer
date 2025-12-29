@@ -1,0 +1,15 @@
+{
+  "name": "Sigma Healthcare Limited",
+  "currency": "AUD",
+  "sector": "Healthcare",
+  "industry": "Medical Distribution",
+  "market_cap": 34101243904,
+  "ebitda": 832590000.0,
+  "ebit": 776608000.0,
+  "interest_expense": 33116000.0,
+  "total_debt": 2070756000.0,
+  "current_assets": 2908429000.0,
+  "current_liabilities": 1702865000.0,
+  "annual_debt_service": 2712032000.0,
+  "_cache_version": 2
+}

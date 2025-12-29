@@ -1,0 +1,15 @@
+{
+  "name": "Hancock & Gore Ltd",
+  "currency": "AUD",
+  "sector": "Financial Services",
+  "industry": "Asset Management",
+  "market_cap": 119335024,
+  "ebitda": -6864000.0,
+  "ebit": -7088000.0,
+  "interest_expense": 637000.0,
+  "total_debt": 133000.0,
+  "current_assets": 27467000.0,
+  "current_liabilities": 27964000.0,
+  "annual_debt_service": 643650.0,
+  "_cache_version": 2
+}

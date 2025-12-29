@@ -1,0 +1,15 @@
+{
+  "name": "Telstra Group Limited",
+  "currency": "AUD",
+  "sector": "Communication Services",
+  "industry": "Telecom Services",
+  "market_cap": 54473900032,
+  "ebitda": 8580000000.0,
+  "ebit": 3889000000.0,
+  "interest_expense": 612000000.0,
+  "total_debt": 17995000000.0,
+  "current_assets": 6495000000.0,
+  "current_liabilities": 11521000000.0,
+  "annual_debt_service": 6685000000.0,
+  "_cache_version": 2
+}

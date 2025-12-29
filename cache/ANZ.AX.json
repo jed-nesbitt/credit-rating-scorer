@@ -1,0 +1,15 @@
+{
+  "name": "ANZ Group Holdings Limited",
+  "currency": "AUD",
+  "sector": "Financial Services",
+  "industry": "Banks - Diversified",
+  "market_cap": 108608577536,
+  "ebitda": NaN,
+  "ebit": NaN,
+  "interest_expense": 45962000000.0,
+  "total_debt": 219824000000.0,
+  "current_assets": NaN,
+  "current_liabilities": NaN,
+  "annual_debt_service": 84546000000.0,
+  "_cache_version": 2
+}

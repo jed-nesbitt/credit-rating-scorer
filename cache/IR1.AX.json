@@ -1,0 +1,15 @@
+{
+  "name": "IRIS Metals Limited",
+  "currency": "AUD",
+  "sector": "Basic Materials",
+  "industry": "Gold",
+  "market_cap": 46080008,
+  "ebitda": -5560732.0,
+  "ebit": -5649423.0,
+  "interest_expense": NaN,
+  "total_debt": NaN,
+  "current_assets": 5508115.0,
+  "current_liabilities": 355385.0,
+  "annual_debt_service": NaN,
+  "_cache_version": 2
+}

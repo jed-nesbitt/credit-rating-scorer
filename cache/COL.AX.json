@@ -3,12 +3,13 @@
   "currency": "AUD",
   "sector": "Consumer Defensive",
   "industry": "Grocery Stores",
-  "market_cap": 28909664256,
+  "market_cap": 28822425600,
   "ebitda": 3221000000.0,
   "ebit": 1652000000.0,
   "interest_expense": 116000000.0,
   "total_debt": 10327000000.0,
-  "current_assets": NaN,
-  "current_liabilities": NaN,
-  "annual_debt_service": 632350000.0
+  "current_assets": 4178000000.0,
+  "current_liabilities": 6856000000.0,
+  "annual_debt_service": 632350000.0,
+  "_cache_version": 2
 }

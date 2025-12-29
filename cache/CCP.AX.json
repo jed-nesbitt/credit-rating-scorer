@@ -1,0 +1,15 @@
+{
+  "name": "Credit Corp Group Limited",
+  "currency": "AUD",
+  "sector": "Financial Services",
+  "industry": "Credit Services",
+  "market_cap": 957020032,
+  "ebitda": 178403000.0,
+  "ebit": 169866000.0,
+  "interest_expense": 36248000.0,
+  "total_debt": 424427000.0,
+  "current_assets": 548118000.0,
+  "current_liabilities": 79286000.0,
+  "annual_debt_service": 173470000.0,
+  "_cache_version": 2
+}

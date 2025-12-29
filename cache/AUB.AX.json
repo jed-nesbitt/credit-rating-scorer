@@ -1,0 +1,15 @@
+{
+  "name": "AUB Group Limited",
+  "currency": "AUD",
+  "sector": "Financial Services",
+  "industry": "Insurance Brokers",
+  "market_cap": 3575736576,
+  "ebitda": 451381000.0,
+  "ebit": 355331000.0,
+  "interest_expense": 85594000.0,
+  "total_debt": 958062000.0,
+  "current_assets": 1675284000.0,
+  "current_liabilities": 1484638000.0,
+  "annual_debt_service": 95202000.0,
+  "_cache_version": 2
+}

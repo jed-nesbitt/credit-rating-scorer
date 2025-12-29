@@ -1,0 +1,15 @@
+{
+  "name": "Transurban Group",
+  "currency": "AUD",
+  "sector": "Industrials",
+  "industry": "Infrastructure Operations",
+  "market_cap": 45180055552,
+  "ebitda": 2168000000.0,
+  "ebit": 1071000000.0,
+  "interest_expense": 953000000.0,
+  "total_debt": 21072000000.0,
+  "current_assets": 2353000000.0,
+  "current_liabilities": 3969000000.0,
+  "annual_debt_service": 4312000000.0,
+  "_cache_version": 2
+}

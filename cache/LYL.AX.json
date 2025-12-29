@@ -1,0 +1,15 @@
+{
+  "name": "Lycopodium Limited",
+  "currency": "AUD",
+  "sector": "Industrials",
+  "industry": "Engineering & Construction",
+  "market_cap": 552786496,
+  "ebitda": 67820514.0,
+  "ebit": 60875049.0,
+  "interest_expense": 370045.0,
+  "total_debt": 16419082.0,
+  "current_assets": 200585726.0,
+  "current_liabilities": 77631140.0,
+  "annual_debt_service": 9366073.0,
+  "_cache_version": 2
+}

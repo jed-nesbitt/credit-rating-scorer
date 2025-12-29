@@ -1,0 +1,15 @@
+{
+  "name": "Medibank Private Limited",
+  "currency": "AUD",
+  "sector": "Financial Services",
+  "industry": "Insurance - Specialty",
+  "market_cap": 13177905152,
+  "ebitda": NaN,
+  "ebit": 739800000.0,
+  "interest_expense": 11000000.0,
+  "total_debt": 209000000.0,
+  "current_assets": NaN,
+  "current_liabilities": NaN,
+  "annual_debt_service": 21450000.0,
+  "_cache_version": 2
+}

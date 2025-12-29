@@ -3,12 +3,13 @@
   "currency": "AUD",
   "sector": "Technology",
   "industry": "Consumer Electronics",
-  "market_cap": 40035936,
+  "market_cap": 38553124,
   "ebitda": -19134000.0,
   "ebit": -20744000.0,
   "interest_expense": 1224000.0,
   "total_debt": 5166000.0,
-  "current_assets": NaN,
-  "current_liabilities": NaN,
-  "annual_debt_service": 9547000.0
+  "current_assets": 32652000.0,
+  "current_liabilities": 20795000.0,
+  "annual_debt_service": 9547000.0,
+  "_cache_version": 2
 }

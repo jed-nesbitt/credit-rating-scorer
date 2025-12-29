@@ -1,0 +1,15 @@
+{
+  "name": "Schaffer Corporation Limited",
+  "currency": "AUD",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Parts",
+  "market_cap": 272359808,
+  "ebitda": 51933000.0,
+  "ebit": 42609000.0,
+  "interest_expense": 3099000.0,
+  "total_debt": 96982000.0,
+  "current_assets": 171622000.0,
+  "current_liabilities": 84286000.0,
+  "annual_debt_service": 7948100.0,
+  "_cache_version": 2
+}

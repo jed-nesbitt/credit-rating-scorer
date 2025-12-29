@@ -1,0 +1,15 @@
+{
+  "name": "Range International Limited",
+  "currency": "AUD",
+  "sector": "Basic Materials",
+  "industry": "Specialty Chemicals",
+  "market_cap": 5355341,
+  "ebitda": -845470.0,
+  "ebit": -1626934.0,
+  "interest_expense": NaN,
+  "total_debt": NaN,
+  "current_assets": 897422.0,
+  "current_liabilities": 689564.0,
+  "annual_debt_service": 6859.0,
+  "_cache_version": 2
+}

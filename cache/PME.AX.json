@@ -1,0 +1,15 @@
+{
+  "name": "Pro Medicus Limited",
+  "currency": "AUD",
+  "sector": "Healthcare",
+  "industry": "Health Information Services",
+  "market_cap": 23470000128,
+  "ebitda": 164850000.0,
+  "ebit": 157614000.0,
+  "interest_expense": NaN,
+  "total_debt": 2255000.0,
+  "current_assets": 280094000.0,
+  "current_liabilities": 43138000.0,
+  "annual_debt_service": 112750.0,
+  "_cache_version": 2
+}

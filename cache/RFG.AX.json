@@ -1,0 +1,15 @@
+{
+  "name": "Retail Food Group Limited",
+  "currency": "AUD",
+  "sector": "Consumer Cyclical",
+  "industry": "Restaurants",
+  "market_cap": 94327640,
+  "ebitda": -3784000.0,
+  "ebit": -14000000.0,
+  "interest_expense": 5471000.0,
+  "total_debt": 125937000.0,
+  "current_assets": 67067000.0,
+  "current_liabilities": 85189000.0,
+  "annual_debt_service": 7425000.0,
+  "_cache_version": 2
+}

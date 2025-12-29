@@ -1,0 +1,15 @@
+{
+  "name": "Stanmore Resources Limited",
+  "currency": "AUD",
+  "sector": "Basic Materials",
+  "industry": "Coking Coal",
+  "market_cap": 2154326016,
+  "ebitda": 699700000.0,
+  "ebit": 335400000.0,
+  "interest_expense": 65300000.0,
+  "total_debt": 672300000.0,
+  "current_assets": 644500000.0,
+  "current_liabilities": 566000000.0,
+  "annual_debt_service": 433600000.0,
+  "_cache_version": 2
+}

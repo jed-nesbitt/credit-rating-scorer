@@ -1,0 +1,15 @@
+{
+  "name": "Amotiv Limited",
+  "currency": "AUD",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Parts",
+  "market_cap": 1171187200,
+  "ebitda": 3800000.0,
+  "ebit": -53100000.0,
+  "interest_expense": 22200000.0,
+  "total_debt": 570400000.0,
+  "current_assets": 499400000.0,
+  "current_liabilities": 215600000.0,
+  "annual_debt_service": 154100000.0,
+  "_cache_version": 2
+}

@@ -3,12 +3,13 @@
   "currency": "AUD",
   "sector": "Technology",
   "industry": "Scientific & Technical Instruments",
-  "market_cap": 10131378,
+  "market_cap": 9118240,
   "ebitda": -4206789.0,
   "ebit": -5541770.0,
   "interest_expense": 970397.0,
   "total_debt": 5266452.0,
-  "current_assets": NaN,
-  "current_liabilities": NaN,
-  "annual_debt_service": 3487830.0
+  "current_assets": 7491155.0,
+  "current_liabilities": 9366399.0,
+  "annual_debt_service": 3487830.0,
+  "_cache_version": 2
 }

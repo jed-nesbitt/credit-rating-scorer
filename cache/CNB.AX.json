@@ -1,0 +1,15 @@
+{
+  "name": "Carnaby Resources Limited",
+  "currency": "AUD",
+  "sector": "Basic Materials",
+  "industry": "Other Precious Metals & Mining",
+  "market_cap": 127015144,
+  "ebitda": -12069767.0,
+  "ebit": -12069767.0,
+  "interest_expense": 16577.0,
+  "total_debt": 65601.0,
+  "current_assets": 10842951.0,
+  "current_liabilities": 2559308.0,
+  "annual_debt_service": 19857.05,
+  "_cache_version": 2
+}

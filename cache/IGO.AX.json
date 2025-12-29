@@ -1,0 +1,15 @@
+{
+  "name": "IGO Limited",
+  "currency": "AUD",
+  "sector": "Basic Materials",
+  "industry": "Other Industrial Metals & Mining",
+  "market_cap": 6171732480,
+  "ebitda": -811100000.0,
+  "ebit": -1037200000.0,
+  "interest_expense": 9500000.0,
+  "total_debt": 31400000.0,
+  "current_assets": 486300000.0,
+  "current_liabilities": 87600000.0,
+  "annual_debt_service": 11070000.0,
+  "_cache_version": 2
+}

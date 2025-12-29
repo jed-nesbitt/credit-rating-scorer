@@ -1,0 +1,15 @@
+{
+  "name": "Fleetwood Limited",
+  "currency": "AUD",
+  "sector": "Industrials",
+  "industry": "Engineering & Construction",
+  "market_cap": 237933408,
+  "ebitda": 43941000.0,
+  "ebit": 25566000.0,
+  "interest_expense": 787000.0,
+  "total_debt": 17258000.0,
+  "current_assets": 160167000.0,
+  "current_liabilities": 80846000.0,
+  "annual_debt_service": 1649900.0,
+  "_cache_version": 2
+}

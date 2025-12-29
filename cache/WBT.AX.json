@@ -1,0 +1,15 @@
+{
+  "name": "Weebit Nano Limited",
+  "currency": "AUD",
+  "sector": "Technology",
+  "industry": "Semiconductors",
+  "market_cap": 1136315008,
+  "ebitda": -40181156.0,
+  "ebit": -40578143.0,
+  "interest_expense": NaN,
+  "total_debt": 516160.0,
+  "current_assets": 95300689.0,
+  "current_liabilities": 6647995.0,
+  "annual_debt_service": 25808.0,
+  "_cache_version": 2
+}

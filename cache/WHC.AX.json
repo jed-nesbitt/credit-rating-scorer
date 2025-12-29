@@ -1,0 +1,15 @@
+{
+  "name": "Whitehaven Coal Limited",
+  "currency": "AUD",
+  "sector": "Energy",
+  "industry": "Thermal Coal",
+  "market_cap": 6433492992,
+  "ebitda": 2119000000.0,
+  "ebit": 1512000000.0,
+  "interest_expense": 581000000.0,
+  "total_debt": 2033000000.0,
+  "current_assets": 2087000000.0,
+  "current_liabilities": 1869000000.0,
+  "annual_debt_service": 615000000.0,
+  "_cache_version": 2
+}

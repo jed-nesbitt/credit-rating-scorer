@@ -1,0 +1,15 @@
+{
+  "name": "Dicker Data Limited",
+  "currency": "AUD",
+  "sector": "Technology",
+  "industry": "Electronics & Computer Distribution",
+  "market_cap": 1842533888,
+  "ebitda": 151965000.0,
+  "ebit": 137823000.0,
+  "interest_expense": 24629000.0,
+  "total_debt": 369145000.0,
+  "current_assets": 856744000.0,
+  "current_liabilities": 545933000.0,
+  "annual_debt_service": 43086250.0,
+  "_cache_version": 2
+}

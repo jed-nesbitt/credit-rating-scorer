@@ -13,6 +13,7 @@ from credit_engine.scorecard import load_scorecard, evaluate_borrower_cfg
 import os
 import random
 import sys
+import re
 
 def resource_path(relative_path: str) -> Path:
     base = Path(getattr(sys, "_MEIPASS", Path(__file__).resolve().parent))
@@ -267,10 +268,65 @@ def evaluate_borrower(borrower: Dict[str, Any]) -> Dict[str, Any]:
 # =========================================
 # 2) Yahoo Finance helpers
 # =========================================
+def _norm_label(s: str) -> str:
+    # Lowercase + strip everything except letters/numbers so we can match
+    # e.g. "Total Current Assets" == "TotalCurrentAssets"
+    return re.sub(r"[^a-z0-9]+", "", str(s).lower())
+
+
+def _latest_period_col(df: pd.DataFrame):
+    """Pick the most recent column for Yahoo financial statements."""
+    if df is None or df.empty or len(df.columns) == 0:
+        return None
+    cols = list(df.columns)
+    # yfinance usually uses datetime-like columns; max() is the most recent date.
+    try:
+        return max(cols)
+    except Exception:
+        return cols[0]
+
+
 def get_line_item(df: pd.DataFrame, labels) -> float:
-    """Try multiple label names; returns latest period value (most recent column)."""
+    """Try multiple label names (robust to case/spacing); returns latest-period value."""
     if df is None or df.empty:
         return math.nan
+
+    if isinstance(labels, str):
+        labels = [labels]
+
+    latest_col = _latest_period_col(df)
+    if latest_col is None:
+        return math.nan
+
+    # Build normalised index lookup
+    norm_to_row = {}
+    for idx in df.index:
+        key = _norm_label(idx)
+        # keep first occurrence (avoid overwriting if duplicates)
+        norm_to_row.setdefault(key, idx)
+
+    def _to_float(v) -> float:
+        try:
+            return float(v)
+        except (TypeError, ValueError):
+            return math.nan
+
+    # 1) Exact normalised match
+    for label in labels:
+        key = _norm_label(label)
+        if key in norm_to_row:
+            return _to_float(df.loc[norm_to_row[key], latest_col])
+
+    # 2) Fuzzy contains match (last resort)
+    for label in labels:
+        key = _norm_label(label)
+        if not key:
+            continue
+        for k, row in norm_to_row.items():
+            if key in k:
+                return _to_float(df.loc[row, latest_col])
+
+    return math.nan
 
     if isinstance(labels, str):
         labels = [labels]
@@ -285,6 +341,8 @@ def get_line_item(df: pd.DataFrame, labels) -> float:
                 return math.nan
 
     return math.nan
+
+CACHE_VERSION = 2
 
 CACHE_DIR = Path("cache")
 CACHE_DIR.mkdir(exist_ok=True)
@@ -309,12 +367,18 @@ def load_cached_borrower(ticker: str) -> Dict[str, Any] | None:
     if not _is_cache_fresh(p, CACHE_TTL_SECONDS):
         return None
     try:
-        return json.loads(p.read_text(encoding="utf-8"))
+        obj = json.loads(p.read_text(encoding="utf-8"))
+        # Invalidate cache across code changes (prevents stale NaNs for items like current assets/liabilities)
+        if obj.get("_cache_version") != CACHE_VERSION:
+            return None
+        return obj
     except Exception:
         return None
 
 
 def save_cached_borrower(ticker: str, borrower: Dict[str, Any]) -> None:
+    borrower = dict(borrower)
+    borrower["_cache_version"] = CACHE_VERSION
     p = _cache_path_for_ticker(ticker)
     p.write_text(json.dumps(borrower, indent=2), encoding="utf-8")
 
@@ -352,8 +416,18 @@ def fetch_borrower_from_yahoo(ticker: str) -> Dict[str, Any]:
         ["Interest Expense", "InterestExpense", "Interest Expense Non Operating", "Interest Expense Non-Operating"],
     )
     total_debt = get_line_item(bs, ["Total Debt", "TotalDebt"])
-    current_assets = get_line_item(bs, ["Total Current Assets"])
-    current_liabilities = get_line_item(bs, ["Total Current Liabilities"])
+    current_assets = get_line_item(bs, [
+        "Total Current Assets",
+        "Current Assets",
+        "CurrentAssets",
+        "TotalCurrentAssets",
+    ])
+    current_liabilities = get_line_item(bs, [
+        "Total Current Liabilities",
+        "Current Liabilities",
+        "CurrentLiabilities",
+        "TotalCurrentLiabilities",
+    ])
 
     debt_repayment = get_line_item(cf, ["Repayment Of Debt", "Debt Repayment", "Repayment of Debt"])
 

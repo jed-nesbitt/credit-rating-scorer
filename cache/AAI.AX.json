@@ -1,0 +1,15 @@
+{
+  "name": "Alcoa Corporation",
+  "currency": "AUD",
+  "sector": "Basic Materials",
+  "industry": "Aluminum",
+  "market_cap": 22946799616,
+  "ebitda": 1087000000.0,
+  "ebit": 445000000.0,
+  "interest_expense": 156000000.0,
+  "total_debt": 2818000000.0,
+  "current_assets": 4914000000.0,
+  "current_liabilities": 3395000000.0,
+  "annual_debt_service": 835000000.0,
+  "_cache_version": 2
+}

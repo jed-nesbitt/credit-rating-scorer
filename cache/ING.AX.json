@@ -1,0 +1,15 @@
+{
+  "name": "Inghams Group Limited",
+  "currency": "AUD",
+  "sector": "Consumer Defensive",
+  "industry": "Farm Products",
+  "market_cap": 925482240,
+  "ebitda": 232000000.0,
+  "ebit": 174500000.0,
+  "interest_expense": 31300000.0,
+  "total_debt": 1597000000.0,
+  "current_assets": 985000000.0,
+  "current_liabilities": 693300000.0,
+  "annual_debt_service": 111150000.0,
+  "_cache_version": 2
+}

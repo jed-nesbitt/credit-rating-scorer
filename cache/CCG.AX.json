@@ -3,12 +3,13 @@
   "currency": "AUD",
   "sector": "Technology",
   "industry": "Information Technology Services",
-  "market_cap": 39302640,
+  "market_cap": 36573292,
   "ebitda": 2886274.0,
   "ebit": 116309.0,
   "interest_expense": 724416.0,
   "total_debt": 13838289.0,
-  "current_assets": NaN,
-  "current_liabilities": NaN,
-  "annual_debt_service": 8352327.0
+  "current_assets": 15201938.0,
+  "current_liabilities": 24495150.0,
+  "annual_debt_service": 8352327.0,
+  "_cache_version": 2
 }

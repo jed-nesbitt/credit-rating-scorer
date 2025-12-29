@@ -1,0 +1,15 @@
+{
+  "name": "Australian Unity Office Fund",
+  "currency": "AUD",
+  "sector": "Real Estate",
+  "industry": "REIT - Office",
+  "market_cap": 63287456,
+  "ebitda": -35521000.0,
+  "ebit": -35521000.0,
+  "interest_expense": 67000.0,
+  "total_debt": NaN,
+  "current_assets": 26007000.0,
+  "current_liabilities": 5520000.0,
+  "annual_debt_service": 67000.0,
+  "_cache_version": 2
+}

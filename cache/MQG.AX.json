@@ -1,0 +1,15 @@
+{
+  "name": "Macquarie Group Limited",
+  "currency": "AUD",
+  "sector": "Financial Services",
+  "industry": "Capital Markets",
+  "market_cap": 78735638528,
+  "ebitda": 20515000000.0,
+  "ebit": 19697000000.0,
+  "interest_expense": 14629000000.0,
+  "total_debt": 330185000000.0,
+  "current_assets": 199714000000.0,
+  "current_liabilities": 75082000000.0,
+  "annual_debt_service": 15629000000.0,
+  "_cache_version": 2
+}

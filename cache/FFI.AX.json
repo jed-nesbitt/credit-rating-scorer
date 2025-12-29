@@ -1,0 +1,15 @@
+{
+  "name": "FFI Holdings Limited",
+  "currency": "AUD",
+  "sector": "Consumer Defensive",
+  "industry": "Confectioners",
+  "market_cap": 64271292,
+  "ebitda": 4906216.0,
+  "ebit": 3974779.0,
+  "interest_expense": 4673.0,
+  "total_debt": 4000000.0,
+  "current_assets": 18823829.0,
+  "current_liabilities": 10390036.0,
+  "annual_debt_service": 10815.0,
+  "_cache_version": 2
+}

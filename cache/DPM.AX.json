@@ -1,0 +1,15 @@
+{
+  "name": "DPMMETALS CDI 1:1 [DPM]",
+  "currency": "AUD",
+  "sector": "Basic Materials",
+  "industry": "Gold",
+  "market_cap": 11061163008,
+  "ebitda": 366946000.0,
+  "ebit": 277697000.0,
+  "interest_expense": 1570000.0,
+  "total_debt": 13521000.0,
+  "current_assets": 1000985000.0,
+  "current_liabilities": 83486000.0,
+  "annual_debt_service": 6568000.0,
+  "_cache_version": 2
+}

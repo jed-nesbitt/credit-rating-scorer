@@ -1,0 +1,15 @@
+{
+  "name": "Greatland Resources Limited",
+  "currency": "AUD",
+  "sector": "Basic Materials",
+  "industry": "Gold",
+  "market_cap": 7179912192,
+  "ebitda": -26766260.181625,
+  "ebit": -26766260.181625,
+  "interest_expense": 1371900.928362,
+  "total_debt": 41802000.0,
+  "current_assets": 0.0,
+  "current_liabilities": 0.0,
+  "annual_debt_service": 3462000.928362,
+  "_cache_version": 2
+}

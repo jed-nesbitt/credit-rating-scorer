@@ -1,0 +1,15 @@
+{
+  "name": "WT Financial Group Limited",
+  "currency": "AUD",
+  "sector": "Financial Services",
+  "industry": "Asset Management",
+  "market_cap": 47906012,
+  "ebitda": 6337612.0,
+  "ebit": 5712952.0,
+  "interest_expense": 906272.0,
+  "total_debt": 7537987.0,
+  "current_assets": 20001083.0,
+  "current_liabilities": 17005096.0,
+  "annual_debt_service": 1283171.35,
+  "_cache_version": 2
+}

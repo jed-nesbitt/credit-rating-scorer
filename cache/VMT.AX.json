@@ -3,12 +3,13 @@
   "currency": "AUD",
   "sector": "Consumer Cyclical",
   "industry": "Recreational Vehicles",
-  "market_cap": 27592498,
+  "market_cap": 27198318,
   "ebitda": 1844000.0,
   "ebit": -63000.0,
   "interest_expense": 293000.0,
   "total_debt": 12635000.0,
-  "current_assets": NaN,
-  "current_liabilities": NaN,
-  "annual_debt_service": 4730000.0
+  "current_assets": 84801000.0,
+  "current_liabilities": 34289000.0,
+  "annual_debt_service": 4730000.0,
+  "_cache_version": 2
 }

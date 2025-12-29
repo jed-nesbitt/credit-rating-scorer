@@ -3,12 +3,13 @@
   "currency": "AUD",
   "sector": "Communication Services",
   "industry": "Telecom Services",
-  "market_cap": 3701034752,
+  "market_cap": 3720063232,
   "ebitda": 1035000000.0,
   "ebit": 445000000.0,
   "interest_expense": 98000000.0,
   "total_debt": 2349000000.0,
-  "current_assets": NaN,
-  "current_liabilities": NaN,
-  "annual_debt_service": 295000000.0
+  "current_assets": 1438000000.0,
+  "current_liabilities": 1066000000.0,
+  "annual_debt_service": 295000000.0,
+  "_cache_version": 2
 }

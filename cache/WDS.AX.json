@@ -1,0 +1,15 @@
+{
+  "name": "Woodside Energy Group Ltd",
+  "currency": "AUD",
+  "sector": "Energy",
+  "industry": "Oil & Gas E&P",
+  "market_cap": 43991457792,
+  "ebitda": 9466000000.0,
+  "ebit": 4704000000.0,
+  "interest_expense": 335000000.0,
+  "total_debt": 11620000000.0,
+  "current_assets": 7563000000.0,
+  "current_liabilities": 5857000000.0,
+  "annual_debt_service": 782000000.0,
+  "_cache_version": 2
+}

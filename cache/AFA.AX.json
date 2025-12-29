@@ -1,0 +1,15 @@
+{
+  "name": "ASF Group Limited",
+  "currency": "AUD",
+  "sector": "Financial Services",
+  "industry": "Capital Markets",
+  "market_cap": 37242692,
+  "ebitda": -6998000.0,
+  "ebit": -7263000.0,
+  "interest_expense": 2666000.0,
+  "total_debt": 35027000.0,
+  "current_assets": 1781000.0,
+  "current_liabilities": 6073000.0,
+  "annual_debt_service": 2948000.0,
+  "_cache_version": 2
+}

@@ -1,0 +1,15 @@
+{
+  "name": "ARB Corporation Limited",
+  "currency": "AUD",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Parts",
+  "market_cap": 2641365248,
+  "ebitda": 169804000.0,
+  "ebit": 137295000.0,
+  "interest_expense": 2357000.0,
+  "total_debt": 46642000.0,
+  "current_assets": 424185000.0,
+  "current_liabilities": 102713000.0,
+  "annual_debt_service": 4689100.0,
+  "_cache_version": 2
+}

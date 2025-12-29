@@ -3,12 +3,13 @@
   "currency": "AUD",
   "sector": "Basic Materials",
   "industry": "Other Industrial Metals & Mining",
-  "market_cap": 26895858,
+  "market_cap": 26104802,
   "ebitda": -22048000.0,
   "ebit": -22048000.0,
   "interest_expense": 2000.0,
   "total_debt": NaN,
-  "current_assets": NaN,
-  "current_liabilities": NaN,
-  "annual_debt_service": 2000.0
+  "current_assets": 7123000.0,
+  "current_liabilities": 243000.0,
+  "annual_debt_service": 2000.0,
+  "_cache_version": 2
 }

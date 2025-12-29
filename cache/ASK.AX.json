@@ -1,0 +1,15 @@
+{
+  "name": "Abacus Storage King",
+  "currency": "AUD",
+  "sector": "Real Estate",
+  "industry": "REIT - Industrial",
+  "market_cap": 2023718400,
+  "ebitda": 335161000.0,
+  "ebit": 329922000.0,
+  "interest_expense": 36216000.0,
+  "total_debt": 1146980000.0,
+  "current_assets": 167568000.0,
+  "current_liabilities": 95677000.0,
+  "annual_debt_service": 1020499000.0,
+  "_cache_version": 2
+}

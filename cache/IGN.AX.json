@@ -1,0 +1,15 @@
+{
+  "name": "Ignite Limited",
+  "currency": "AUD",
+  "sector": "Industrials",
+  "industry": "Staffing & Employment Services",
+  "market_cap": 11743546,
+  "ebitda": 1532000.0,
+  "ebit": 1305000.0,
+  "interest_expense": 70000.0,
+  "total_debt": 21000.0,
+  "current_assets": 13294000.0,
+  "current_liabilities": 4872000.0,
+  "annual_debt_service": 72000.0,
+  "_cache_version": 2
+}

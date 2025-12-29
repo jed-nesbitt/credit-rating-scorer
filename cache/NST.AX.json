@@ -1,0 +1,15 @@
+{
+  "name": "Northern Star Resources Limited",
+  "currency": "AUD",
+  "sector": "Basic Materials",
+  "industry": "Gold",
+  "market_cap": 39059075072,
+  "ebitda": 3434600000.0,
+  "ebit": 2069400000.0,
+  "interest_expense": 117200000.0,
+  "total_debt": 1710200000.0,
+  "current_assets": 2973400000.0,
+  "current_liabilities": 1633900000.0,
+  "annual_debt_service": 202710000.0,
+  "_cache_version": 2
+}

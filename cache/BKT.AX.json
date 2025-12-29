@@ -1,0 +1,15 @@
+{
+  "name": "Black Rock Mining Limited",
+  "currency": "AUD",
+  "sector": "Basic Materials",
+  "industry": "Other Industrial Metals & Mining",
+  "market_cap": 27920416,
+  "ebitda": -10428906.0,
+  "ebit": -10779083.0,
+  "interest_expense": NaN,
+  "total_debt": 477939.0,
+  "current_assets": 9564493.0,
+  "current_liabilities": 3233533.0,
+  "annual_debt_service": 23896.95,
+  "_cache_version": 2
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Norwood Systems Limited",
+  "currency": "AUD",
+  "sector": "Communication Services",
+  "industry": "Telecom Services",
+  "market_cap": 7922987,
+  "ebitda": NaN,
+  "ebit": NaN,
+  "interest_expense": NaN,
+  "total_debt": 767231.0,
+  "current_assets": 363744.0,
+  "current_liabilities": 1708792.0,
+  "annual_debt_service": 535267.0,
+  "_cache_version": 2
+}

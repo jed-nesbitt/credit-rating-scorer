@@ -1,0 +1,15 @@
+{
+  "name": "WHSP Holdings Limited",
+  "currency": "AUD",
+  "sector": "Financial Services",
+  "industry": "Capital Markets",
+  "market_cap": 13836674048,
+  "ebitda": 574200000.0,
+  "ebit": 500100000.0,
+  "interest_expense": 60600000.0,
+  "total_debt": 1010100000.0,
+  "current_assets": 1530400000.0,
+  "current_liabilities": 1154900000.0,
+  "annual_debt_service": 71500000.0,
+  "_cache_version": 2
+}

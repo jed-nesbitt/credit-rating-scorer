@@ -3,12 +3,13 @@
   "currency": "AUD",
   "sector": "Consumer Cyclical",
   "industry": "Apparel Retail",
-  "market_cap": 62023700,
+  "market_cap": 60199472,
   "ebitda": 18664000.0,
   "ebit": 18329000.0,
   "interest_expense": 11000.0,
   "total_debt": NaN,
-  "current_assets": NaN,
-  "current_liabilities": NaN,
-  "annual_debt_service": 11000.0
+  "current_assets": 60440000.0,
+  "current_liabilities": 10006000.0,
+  "annual_debt_service": 11000.0,
+  "_cache_version": 2
 }

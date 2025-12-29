@@ -3,12 +3,13 @@
   "currency": "AUD",
   "sector": "Energy",
   "industry": "Oil & Gas E&P",
-  "market_cap": 25220198,
+  "market_cap": 14994173,
   "ebitda": -11079395.0,
   "ebit": -11840242.0,
   "interest_expense": 1222930.0,
   "total_debt": 11449102.0,
-  "current_assets": NaN,
-  "current_liabilities": NaN,
-  "annual_debt_service": 1795385.1
+  "current_assets": 3238520.0,
+  "current_liabilities": 1126595.0,
+  "annual_debt_service": 1795385.1,
+  "_cache_version": 2
 }

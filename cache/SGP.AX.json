@@ -1,0 +1,15 @@
+{
+  "name": "Stockland",
+  "currency": "AUD",
+  "sector": "Real Estate",
+  "industry": "REIT - Diversified",
+  "market_cap": 14158746624,
+  "ebitda": 1000000000.0,
+  "ebit": 986000000.0,
+  "interest_expense": 105000000.0,
+  "total_debt": 5179000000.0,
+  "current_assets": 3116000000.0,
+  "current_liabilities": 2580000000.0,
+  "annual_debt_service": 4777000000.0,
+  "_cache_version": 2
+}

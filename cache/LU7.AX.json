@@ -1,0 +1,15 @@
+{
+  "name": "Lithium Universe Limited",
+  "currency": "AUD",
+  "sector": "Basic Materials",
+  "industry": "Other Industrial Metals & Mining",
+  "market_cap": 19393256,
+  "ebitda": -11239336.0,
+  "ebit": -11240692.0,
+  "interest_expense": NaN,
+  "total_debt": 11689.0,
+  "current_assets": 1272680.0,
+  "current_liabilities": 2823237.0,
+  "annual_debt_service": 584.45,
+  "_cache_version": 2
+}

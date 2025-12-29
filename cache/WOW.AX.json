@@ -1,0 +1,15 @@
+{
+  "name": "Woolworths Group Limited",
+  "currency": "AUD",
+  "sector": "Consumer Defensive",
+  "industry": "Grocery Stores",
+  "market_cap": 35805073408,
+  "ebitda": 4568000000.0,
+  "ebit": 1615000000.0,
+  "interest_expense": 241000000.0,
+  "total_debt": 17385000000.0,
+  "current_assets": 6991000000.0,
+  "current_liabilities": 12297000000.0,
+  "annual_debt_service": 2242000000.0,
+  "_cache_version": 2
+}

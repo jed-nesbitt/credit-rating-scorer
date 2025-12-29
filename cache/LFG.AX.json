@@ -1,0 +1,15 @@
+{
+  "name": "Liberty Financial Group Limited",
+  "currency": "AUD",
+  "sector": "Financial Services",
+  "industry": "Credit Services",
+  "market_cap": 1275120000,
+  "ebitda": 1308463000.0,
+  "ebit": 1289009000.0,
+  "interest_expense": 1139539000.0,
+  "total_debt": 14710661000.0,
+  "current_assets": 1827588000.0,
+  "current_liabilities": 5069720000.0,
+  "annual_debt_service": 1241861000.0,
+  "_cache_version": 2
+}

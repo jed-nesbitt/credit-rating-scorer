@@ -3,12 +3,13 @@
   "currency": "AUD",
   "sector": "Industrials",
   "industry": "Airlines",
-  "market_cap": 15510292480,
+  "market_cap": 15548121088,
   "ebitda": 4536000000.0,
   "ebit": 2524000000.0,
   "interest_expense": 262000000.0,
   "total_debt": 7956000000.0,
-  "current_assets": NaN,
-  "current_liabilities": NaN,
-  "annual_debt_service": 478000000.0
+  "current_assets": 4515000000.0,
+  "current_liabilities": 12716000000.0,
+  "annual_debt_service": 478000000.0,
+  "_cache_version": 2
 }

@@ -1,0 +1,15 @@
+{
+  "name": "HealthCo Healthcare and Wellness REIT",
+  "currency": "AUD",
+  "sector": "Real Estate",
+  "industry": "REIT - Healthcare Facilities",
+  "market_cap": 404379328,
+  "ebitda": -64100000.0,
+  "ebit": -64100000.0,
+  "interest_expense": 25200000.0,
+  "total_debt": 448300000.0,
+  "current_assets": 44000000.0,
+  "current_liabilities": 460200000.0,
+  "annual_debt_service": 73700000.0,
+  "_cache_version": 2
+}

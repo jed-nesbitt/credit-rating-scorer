@@ -1,0 +1,15 @@
+{
+  "name": "Keybridge Capital Limited",
+  "currency": "AUD",
+  "sector": "Financial Services",
+  "industry": "Asset Management",
+  "market_cap": 10003378,
+  "ebitda": NaN,
+  "ebit": NaN,
+  "interest_expense": 726818.0,
+  "total_debt": 2153375.0,
+  "current_assets": NaN,
+  "current_liabilities": NaN,
+  "annual_debt_service": 9919568.0,
+  "_cache_version": 2
+}

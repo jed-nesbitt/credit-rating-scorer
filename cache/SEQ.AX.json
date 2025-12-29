@@ -1,0 +1,15 @@
+{
+  "name": "Sequoia Financial Group Limited",
+  "currency": "AUD",
+  "sector": "Financial Services",
+  "industry": "Financial Conglomerates",
+  "market_cap": 34940116,
+  "ebitda": 9243569.0,
+  "ebit": 5860004.0,
+  "interest_expense": 10552.0,
+  "total_debt": 3970482.0,
+  "current_assets": 34488363.0,
+  "current_liabilities": 13303101.0,
+  "annual_debt_service": 209076.1,
+  "_cache_version": 2
+}

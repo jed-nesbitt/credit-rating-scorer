@@ -1,0 +1,15 @@
+{
+  "name": "RAM Essential Services Property Fund",
+  "currency": "AUD",
+  "sector": "Financial Services",
+  "industry": "Asset Management",
+  "market_cap": 295628448,
+  "ebitda": -16375000.0,
+  "ebit": -22956000.0,
+  "interest_expense": 1508000.0,
+  "total_debt": 284508000.0,
+  "current_assets": 63734000.0,
+  "current_liabilities": 15217000.0,
+  "annual_debt_service": 30727000.0,
+  "_cache_version": 2
+}

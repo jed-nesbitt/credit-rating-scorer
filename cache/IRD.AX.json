@@ -1,0 +1,15 @@
+{
+  "name": "Iron Road Limited",
+  "currency": "AUD",
+  "sector": "Basic Materials",
+  "industry": "Steel",
+  "market_cap": 20804820,
+  "ebitda": 5181756.0,
+  "ebit": 5146417.0,
+  "interest_expense": 100610.0,
+  "total_debt": NaN,
+  "current_assets": 5555607.0,
+  "current_liabilities": 1086569.0,
+  "annual_debt_service": 598667.0,
+  "_cache_version": 2
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Atlas Arteria Limited",
+  "currency": "AUD",
+  "sector": "Industrials",
+  "industry": "Infrastructure Operations",
+  "market_cap": 7196134912,
+  "ebitda": 443800000.0,
+  "ebit": 373300000.0,
+  "interest_expense": 94900000.0,
+  "total_debt": 1848200000.0,
+  "current_assets": 366500000.0,
+  "current_liabilities": 134300000.0,
+  "annual_debt_service": 194300000.0,
+  "_cache_version": 2
+}

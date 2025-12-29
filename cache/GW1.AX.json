@@ -1,0 +1,15 @@
+{
+  "name": "Greenwing Resources Ltd",
+  "currency": "AUD",
+  "sector": "Basic Materials",
+  "industry": "Other Industrial Metals & Mining",
+  "market_cap": 15110726,
+  "ebitda": -1269846.0,
+  "ebit": -1269846.0,
+  "interest_expense": 574696.0,
+  "total_debt": 465902.0,
+  "current_assets": 2109977.0,
+  "current_liabilities": 8169860.0,
+  "annual_debt_service": 1853242.0,
+  "_cache_version": 2
+}

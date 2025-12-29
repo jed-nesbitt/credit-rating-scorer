@@ -3,12 +3,13 @@
   "currency": "AUD",
   "sector": "Financial Services",
   "industry": "Financial Conglomerates",
-  "market_cap": 363277536,
+  "market_cap": 360347904,
   "ebitda": NaN,
   "ebit": NaN,
   "interest_expense": 52246000.0001,
   "total_debt": 31483999.9999,
   "current_assets": NaN,
   "current_liabilities": NaN,
-  "annual_debt_service": 64695000.0001
+  "annual_debt_service": 64695000.0001,
+  "_cache_version": 2
 }

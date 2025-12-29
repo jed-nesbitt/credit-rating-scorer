@@ -1,0 +1,14 @@
+{
+  "run_name": "20251229_111818",
+  "tickers_file": "input/tickers.csv",
+  "scorecard_file": "D:\\GitHub\\credit-rating-scorer\\config\\scorecard.yaml",
+  "tickers_count": 236,
+  "rows_out": 236,
+  "duration_seconds": 701.73,
+  "outputs": {
+    "decisions": "outputs\\20251229_111818\\credit_decisions.csv",
+    "summary": "outputs\\20251229_111818\\portfolio_summary.csv",
+    "watchlist": "outputs\\20251229_111818\\watchlist.csv",
+    "errors": "outputs\\20251229_111818\\errors.csv"
+  }
+}

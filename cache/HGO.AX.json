@@ -1,0 +1,15 @@
+{
+  "name": "Hillgrove Resources Limited",
+  "currency": "AUD",
+  "sector": "Basic Materials",
+  "industry": "Copper",
+  "market_cap": 157048240,
+  "ebitda": 21237000.0,
+  "ebit": -10526000.0,
+  "interest_expense": 13278000.0,
+  "total_debt": 13155000.0,
+  "current_assets": 14305000.0,
+  "current_liabilities": 40801000.0,
+  "annual_debt_service": 13935750.0,
+  "_cache_version": 2
+}

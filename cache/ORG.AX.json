@@ -1,0 +1,15 @@
+{
+  "name": "Origin Energy Limited",
+  "currency": "AUD",
+  "sector": "Utilities",
+  "industry": "Utilities - Diversified",
+  "market_cap": 19475662848,
+  "ebitda": 2315000000.0,
+  "ebit": 1750000000.0,
+  "interest_expense": 154000000.0,
+  "total_debt": 4842000000.0,
+  "current_assets": 5250000000.0,
+  "current_liabilities": 4564000000.0,
+  "annual_debt_service": 1330000000.0,
+  "_cache_version": 2
+}

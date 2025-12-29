@@ -1,0 +1,15 @@
+{
+  "name": "REA Group Limited",
+  "currency": "AUD",
+  "sector": "Communication Services",
+  "industry": "Internet Content & Information",
+  "market_cap": 24295034880,
+  "ebitda": 1061500000.0,
+  "ebit": 922100000.0,
+  "interest_expense": 10700000.0,
+  "total_debt": 70700000.0,
+  "current_assets": 946200000.0,
+  "current_liabilities": 442900000.0,
+  "annual_debt_service": 313300000.0,
+  "_cache_version": 2
+}

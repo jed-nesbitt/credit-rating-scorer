@@ -1,0 +1,15 @@
+{
+  "name": "ClearView Wealth Limited",
+  "currency": "AUD",
+  "sector": "Financial Services",
+  "industry": "Insurance - Life",
+  "market_cap": 345635136,
+  "ebitda": NaN,
+  "ebit": 39998000.0,
+  "interest_expense": 17834000.0,
+  "total_debt": 194541000.0,
+  "current_assets": NaN,
+  "current_liabilities": NaN,
+  "annual_debt_service": 51908000.0,
+  "_cache_version": 2
+}

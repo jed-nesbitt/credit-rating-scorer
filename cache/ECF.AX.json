@@ -1,0 +1,15 @@
+{
+  "name": "Elanor Commercial Property Fund",
+  "currency": "AUD",
+  "sector": "Real Estate",
+  "industry": "Real Estate Services",
+  "market_cap": 266586304,
+  "ebitda": 3625000.0,
+  "ebit": 3625000.0,
+  "interest_expense": 9021000.0,
+  "total_debt": 194496000.0,
+  "current_assets": 13666000.0,
+  "current_liabilities": 17939000.0,
+  "annual_debt_service": 12197000.0,
+  "_cache_version": 2
+}

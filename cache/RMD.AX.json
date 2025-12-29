@@ -1,0 +1,15 @@
+{
+  "name": "ResMed Inc.",
+  "currency": "AUD",
+  "sector": "Healthcare",
+  "industry": "Medical Instruments & Supplies",
+  "market_cap": 53000364032,
+  "ebitda": 1923205000.0,
+  "ebit": 1687394000.0,
+  "interest_expense": NaN,
+  "total_debt": 851813000.0,
+  "current_assets": 3505605000.0,
+  "current_liabilities": 1019120000.0,
+  "annual_debt_service": 40000000.0,
+  "_cache_version": 2
+}

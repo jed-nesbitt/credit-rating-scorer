@@ -1,0 +1,15 @@
+{
+  "name": "James Hardie Industries plc",
+  "currency": "AUD",
+  "sector": "Basic Materials",
+  "industry": "Building Materials",
+  "market_cap": 17998290944,
+  "ebitda": 902600000.0,
+  "ebit": 686400000.0,
+  "interest_expense": 41000000.0,
+  "total_debt": 1205000000.0,
+  "current_assets": 1701800000.0,
+  "current_liabilities": 810200000.0,
+  "annual_debt_service": 49700000.0,
+  "_cache_version": 2
+}

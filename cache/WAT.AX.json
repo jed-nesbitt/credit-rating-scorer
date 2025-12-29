@@ -1,0 +1,15 @@
+{
+  "name": "Waterco Limited",
+  "currency": "AUD",
+  "sector": "Industrials",
+  "industry": "Pollution & Treatment Controls",
+  "market_cap": 178632800,
+  "ebitda": 27934000.0,
+  "ebit": 15456000.0,
+  "interest_expense": 3264000.0,
+  "total_debt": 82352000.0,
+  "current_assets": 157256000.0,
+  "current_liabilities": 51132000.0,
+  "annual_debt_service": 11330000.0,
+  "_cache_version": 2
+}

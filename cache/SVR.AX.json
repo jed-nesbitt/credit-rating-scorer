@@ -1,0 +1,15 @@
+{
+  "name": "Solvar Limited",
+  "currency": "AUD",
+  "sector": "Financial Services",
+  "industry": "Credit Services",
+  "market_cap": 334293056,
+  "ebitda": 98241000.0,
+  "ebit": 96765000.0,
+  "interest_expense": 52069000.0,
+  "total_debt": 588503000.0,
+  "current_assets": 896431000.0,
+  "current_liabilities": 398229000.0,
+  "annual_debt_service": 303739000.0,
+  "_cache_version": 2
+}

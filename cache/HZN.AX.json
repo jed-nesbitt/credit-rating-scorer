@@ -1,0 +1,15 @@
+{
+  "name": "Horizon Oil Limited",
+  "currency": "AUD",
+  "sector": "Energy",
+  "industry": "Oil & Gas E&P",
+  "market_cap": 333655648,
+  "ebitda": 22828000.0,
+  "ebit": 22653000.0,
+  "interest_expense": 6000000.0,
+  "total_debt": 25655000.0,
+  "current_assets": 61419000.0,
+  "current_liabilities": 26641000.0,
+  "annual_debt_service": 7282750.0,
+  "_cache_version": 2
+}

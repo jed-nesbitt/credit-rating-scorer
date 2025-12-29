@@ -1,0 +1,15 @@
+{
+  "name": "PLS Group Limited",
+  "currency": "AUD",
+  "sector": "Basic Materials",
+  "industry": "Other Industrial Metals & Mining",
+  "market_cap": 14075128832,
+  "ebitda": 75307000.0,
+  "ebit": -145982000.0,
+  "interest_expense": 75126000.0,
+  "total_debt": 682211000.0,
+  "current_assets": 1246294000.0,
+  "current_liabilities": 286538000.0,
+  "annual_debt_service": 443320000.0,
+  "_cache_version": 2
+}

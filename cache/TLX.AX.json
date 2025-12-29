@@ -1,0 +1,15 @@
+{
+  "name": "Telix Pharmaceuticals Limited",
+  "currency": "AUD",
+  "sector": "Healthcare",
+  "industry": "Biotechnology",
+  "market_cap": 3956443136,
+  "ebitda": 92547000.0,
+  "ebit": 92547000.0,
+  "interest_expense": 36491000.0,
+  "total_debt": 581448000.0,
+  "current_assets": 918564000.0,
+  "current_liabilities": 205770570.092528,
+  "annual_debt_service": 38437323.748881,
+  "_cache_version": 2
+}

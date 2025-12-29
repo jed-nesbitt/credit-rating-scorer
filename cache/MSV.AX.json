@@ -1,0 +1,15 @@
+{
+  "name": "Mitchell Services Limited",
+  "currency": "AUD",
+  "sector": "Basic Materials",
+  "industry": "Other Industrial Metals & Mining",
+  "market_cap": 72067224,
+  "ebitda": 25845132.0,
+  "ebit": 1985080.0,
+  "interest_expense": 1255283.0,
+  "total_debt": 10767711.0,
+  "current_assets": 45345571.0,
+  "current_liabilities": 38632272.0,
+  "annual_debt_service": 10722428.0,
+  "_cache_version": 2
+}

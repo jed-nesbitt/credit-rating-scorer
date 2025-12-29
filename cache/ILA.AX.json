@@ -3,12 +3,13 @@
   "currency": "AUD",
   "sector": "Healthcare",
   "industry": "Biotechnology",
-  "market_cap": 125109360,
+  "market_cap": 119728312,
   "ebitda": -2818117.0,
   "ebit": -2818117.0,
   "interest_expense": 46201.0,
   "total_debt": 421968.0,
-  "current_assets": NaN,
-  "current_liabilities": NaN,
-  "annual_debt_service": 233897.0
+  "current_assets": 2564471.0,
+  "current_liabilities": 1045624.0,
+  "annual_debt_service": 233897.0,
+  "_cache_version": 2
 }

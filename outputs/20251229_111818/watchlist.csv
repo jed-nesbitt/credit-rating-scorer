@@ -1,0 +1,59 @@
+name,currency,sector,industry,market_cap,dscr,interest_coverage,debt_ebitda,current_ratio,dscr_score,interest_coverage_score,debt_ebitda_score,current_ratio_score,total_score,rating,risk_band,decision,reason_codes,ticker
+Alcoa Corporation,AUD,Basic Materials,Aluminum,22946799616.0,1.3,2.85,2.59,1.45,3,3,3,3,3.0,BBB,Medium,Review,,AAI.AX
+Alfabs Australia Limited,AUD,Industrials,Conglomerates,116068144.0,1.33,35.03,1.26,1.12,3,5,4,2,3.4,BBB,Medium,Review,Tight liquidity: Current ratio 1.12x,AAL.AX
+Australian Foundation Investment Company Limited,AUD,Financial Services,Asset Management,8971362304.0,,,,,0,0,0,0,,NR,Unknown,Unknown,Insufficient financial data to score (missing key line items/ratios).,AFI.AX
+AFT Corporation Limited,,,,1647536569843712.0,,,,,0,0,0,0,,NR,Unknown,Unknown,Insufficient financial data to score (missing key line items/ratios).,AFT.AX
+Alternative Investment Trust,AUD,Financial Services,Asset Management,49987940.0,,,,,0,0,0,0,,NR,Unknown,Unknown,Insufficient financial data to score (missing key line items/ratios).,AIQ.AX
+Anatara Lifesciences Ltd,AUD,Healthcare,Biotechnology,3763084.0,,,,5.66,0,0,0,5,5.0,AAA,Low,Unknown,Insufficient financial data to score (missing key line items/ratios).,ANR.AX
+ANZ Group Holdings Limited,AUD,Financial Services,Banks - Diversified,108608577536.0,,,,,0,0,0,0,,NR,Unknown,Unknown,Insufficient financial data to score (missing key line items/ratios).,ANZ.AX
+Aims Property Securities Fund,AUD,Real Estate,REIT - Diversified,138899280.0,,,,2.79,0,0,0,5,5.0,AAA,Low,Unknown,Insufficient financial data to score (missing key line items/ratios).,APW.AX
+BSP Financial Group Limited,AUD,Financial Services,Banks - Regional,3782700288.0,,,,,0,0,0,0,,NR,Unknown,Unknown,Insufficient financial data to score (missing key line items/ratios).,BFL.AX
+Boom Logistics Limited,AUD,Industrials,Specialty Business Services,67177608.0,1.84,7.46,2.44,1.16,4,5,3,2,3.45,BBB,Medium,Review,Tight liquidity: Current ratio 1.16x,BOL.AX
+Blackstone Minerals Limited,AUD,Basic Materials,Other Industrial Metals & Mining,79416120.0,,,,2.33,0,0,0,5,5.0,AAA,Low,Unknown,Insufficient financial data to score (missing key line items/ratios).,BSX.AX
+Commonwealth Bank of Australia,AUD,Financial Services,Banks - Diversified,270512668672.0,,,,,0,0,0,0,,NR,Unknown,Unknown,Insufficient financial data to score (missing key line items/ratios).,CBA.AX
+Credit Corp Group Limited,AUD,Financial Services,Credit Services,957020032.0,1.03,4.69,2.38,6.91,2,4,3,5,3.2,BBB,Medium,Review,Weak cashflow coverage: DSCR 1.03x,CCP.AX
+Cadence Capital Limited,AUD,Financial Services,Asset Management,210490432.0,,,,,0,0,0,0,,NR,Unknown,Unknown,Insufficient financial data to score (missing key line items/ratios).,CDM.AX
+Contact Energy Limited,AUD,Utilities,Utilities - Renewable,8049697792.0,1.5,5.77,2.94,1.11,3,5,3,2,3.1,BBB,Medium,Review,Tight liquidity: Current ratio 1.11x,CEN.AX
+Carlton Investments Ltd.,AUD,Financial Services,Asset Management,911960384.0,,,,,0,0,0,0,,NR,Unknown,Unknown,Insufficient financial data to score (missing key line items/ratios).,CIN.AX
+ClearView Wealth Limited,AUD,Financial Services,Insurance - Life,345635136.0,,2.24,,,0,2,0,0,2.0,B,High,Unknown,Insufficient financial data to score (missing key line items/ratios).,CVW.AX
+DIGICO INF STAPLED [DGT],AUD,Real Estate,REIT - Specialty,1516601344.0,,,,,0,0,0,0,,NR,Unknown,Unknown,Insufficient financial data to score (missing key line items/ratios).,DGT.AX
+Equus Energy Ltd,AUD,Utilities,Utilities - Regulated Gas,38932856.0,,,,40.75,0,0,0,5,5.0,AAA,Low,Unknown,Insufficient financial data to score (missing key line items/ratios).,EQU.AX
+Embark Early Education Limited,AUD,Consumer Defensive,Education & Training Services,125141376.0,3.73,71.06,6.97,0.7,5,5,1,1,3.0,BBB,Medium,Review,High leverage: Debt/EBITDA 6.97x; Tight liquidity: Current ratio 0.70x,EVO.AX
+Euroz Hartleys Group Limited,AUD,Financial Services,Asset Management,169274880.0,,,,,0,0,0,0,,NR,Unknown,Unknown,Insufficient financial data to score (missing key line items/ratios).,EZL.AX
+GQG Partners Inc.,AUD,Financial Services,Asset Management,5164616192.0,,,,,0,0,0,0,,NR,Unknown,Unknown,Insufficient financial data to score (missing key line items/ratios).,GQG.AX
+H&G High Conviction Limited,AUD,Financial Services,Asset Management,562787.0,,,,,0,0,0,0,,NR,Unknown,Unknown,Insufficient financial data to score (missing key line items/ratios).,HCF.AX
+Insurance Australia Group Limited,AUD,Financial Services,Insurance - Property & Casualty,18756700160.0,,12.53,,,0,5,0,0,5.0,AAA,Low,Unknown,Insufficient financial data to score (missing key line items/ratios).,IAG.AX
+Inghams Group Limited,AUD,Consumer Defensive,Farm Products,925482240.0,2.09,5.58,6.88,1.42,5,5,1,3,3.4,BBB,Medium,Review,High leverage: Debt/EBITDA 6.88x,ING.AX
+IRIS Metals Limited,AUD,Basic Materials,Gold,46080008.0,,,,15.5,0,0,0,5,5.0,AAA,Low,Unknown,Insufficient financial data to score (missing key line items/ratios).,IR1.AX
+Keybridge Capital Limited,AUD,Financial Services,Asset Management,10003378.0,,,,,0,0,0,0,,NR,Unknown,Unknown,Insufficient financial data to score (missing key line items/ratios).,KBC.AX
+Kkr Credit Income Fund,AUD,Financial Services,Asset Management,,,,,,0,0,0,0,,NR,Unknown,Unknown,Insufficient financial data to score (missing key line items/ratios).,KKC.AX
+Kina Securities Limited,AUD,Financial Services,Financial Conglomerates,360347904.0,,,,,0,0,0,0,,NR,Unknown,Unknown,Insufficient financial data to score (missing key line items/ratios).,KSL.AX
+"Light & Wonder, Inc.",AUD,Consumer Cyclical,Gambling,12904256512.0,3.54,2.44,3.64,1.61,5,2,2,4,3.45,BBB,Medium,Review,Low interest cover: ICR 2.44x; High leverage: Debt/EBITDA 3.64x,LNW.AX
+Lion Selection Group Limited,AUD,Basic Materials,Gold,143245984.0,,,,,0,0,0,0,,NR,Unknown,Unknown,Insufficient financial data to score (missing key line items/ratios).,LSX.AX
+Love Group Global Ltd,AUD,Communication Services,Internet Content & Information,4661429.0,,,,2.13,0,0,0,5,5.0,AAA,Low,Unknown,Insufficient financial data to score (missing key line items/ratios).,LVE.AX
+MFF Capital Investments Limited,AUD,Financial Services,Asset Management,2934146560.0,,,,,0,0,0,0,,NR,Unknown,Unknown,Insufficient financial data to score (missing key line items/ratios).,MFF.AX
+Metrics Income Opportunities Trust,AUD,Financial Services,Asset Management,625053952.0,,,,,0,0,0,0,,NR,Unknown,Unknown,Insufficient financial data to score (missing key line items/ratios).,MOT.AX
+Medibank Private Limited,AUD,Financial Services,Insurance - Specialty,13177905152.0,,67.25,,,0,5,0,0,5.0,AAA,Low,Unknown,Insufficient financial data to score (missing key line items/ratios).,MPL.AX
+Mantle Minerals Limited,AUD,Basic Materials,Other Industrial Metals & Mining,7233115.0,,,,1.0,0,0,0,2,2.0,B,High,Unknown,Insufficient financial data to score (missing key line items/ratios).,MTL.AX
+Marvel Gold Limited,AUD,Basic Materials,Gold,22711346.0,,,,1.22,0,0,0,3,3.0,BBB,Medium,Unknown,Insufficient financial data to score (missing key line items/ratios).,MVL.AX
+National Australia Bank Limited,AUD,Financial Services,Banks - Diversified,129586651136.0,,,,,0,0,0,0,,NR,Unknown,Unknown,Insufficient financial data to score (missing key line items/ratios).,NAB.AX
+NAOS Ex-50 Opportunities Company Limited,AUD,Financial Services,Asset Management,32056314.0,,,,,0,0,0,0,,NR,Unknown,Unknown,Insufficient financial data to score (missing key line items/ratios).,NAC.AX
+NAOS Emerging Opportunities Company Limited,AUD,Financial Services,Asset Management,31364830.0,,,,,0,0,0,0,,NR,Unknown,Unknown,Insufficient financial data to score (missing key line items/ratios).,NCC.AX
+Neuren Pharmaceuticals Limited,AUD,Healthcare,Biotechnology,2449208576.0,,,,8.73,0,0,0,5,5.0,AAA,Low,Unknown,Insufficient financial data to score (missing key line items/ratios).,NEU.AX
+Norwood Systems Limited,AUD,Communication Services,Telecom Services,7922987.0,,,,0.21,0,0,0,1,1.0,CCC,High,Unknown,Insufficient financial data to score (missing key line items/ratios).,NOR.AX
+NAOS Small Cap Opportunities Company Limited,AUD,Financial Services,Asset Management,51480504.0,,,,,0,0,0,0,,NR,Unknown,Unknown,Insufficient financial data to score (missing key line items/ratios).,NSC.AX
+Orion Equities Limited,AUD,Financial Services,Asset Management,2895107.0,,,,,0,0,0,0,,NR,Unknown,Unknown,Insufficient financial data to score (missing key line items/ratios).,OEQ.AX
+Ophir Asset Management Pty Ltd - Ophir High Conviction Fund,AUD,Financial Services,Asset Management,707861632.0,,,,,0,0,0,0,,NR,Unknown,Unknown,Insufficient financial data to score (missing key line items/ratios).,OPH.AX
+Origin Energy Limited,AUD,Utilities,Utilities - Diversified,19475662848.0,1.74,11.36,2.09,1.15,4,5,3,2,3.45,BBB,Medium,Review,Tight liquidity: Current ratio 1.15x,ORG.AX
+Pacific Current Group Limited,AUD,Financial Services,Asset Management,308009984.0,,,,,0,0,0,0,,NR,Unknown,Unknown,Insufficient financial data to score (missing key line items/ratios).,PAC.AX
+QBE Insurance Group Limited,AUD,Financial Services,Insurance - Property & Casualty,29675368448.0,,11.14,,,0,5,0,0,5.0,AAA,Low,Unknown,Insufficient financial data to score (missing key line items/ratios).,QBE.AX
+Summerset Group Holdings Limited,AUD,Healthcare,Medical Care Facilities,2477263360.0,13.89,14.77,4.31,0.29,5,5,2,1,3.3,BBB,Medium,Review,High leverage: Debt/EBITDA 4.31x; Tight liquidity: Current ratio 0.29x,SNZ.AX
+Suncorp Group Limited,AUD,Financial Services,Insurance - Property & Casualty,19168526336.0,,5.39,,,0,5,0,0,5.0,AAA,Low,Unknown,Insufficient financial data to score (missing key line items/ratios).,SUN.AX
+360 Capital Mortgage REIT,AUD,Real Estate,REIT - Mortgage,52194932.0,,,,,0,0,0,0,,NR,Unknown,Unknown,Insufficient financial data to score (missing key line items/ratios).,TCF.AX
+Telstra Group Limited,AUD,Communication Services,Telecom Services,54473900032.0,1.28,6.35,2.1,0.56,3,5,3,1,2.9,BB,Medium,Review,Tight liquidity: Current ratio 0.56x,TLS.AX
+Tower Limited,AUD,Financial Services,Insurance - Property & Casualty,597753344.0,,41.57,,,0,5,0,0,5.0,AAA,Low,Unknown,Insufficient financial data to score (missing key line items/ratios).,TWR.AX
+VBXLIMITED FPO [VBX],AUD,Basic Materials,Aluminum,39890580.0,,,,,0,0,0,0,,NR,Unknown,Unknown,Insufficient financial data to score (missing key line items/ratios).,VBX.AX
+Virgin Australia Holdings Ltd,AUD,Industrials,Airlines,2725236736.0,4.05,2.14,,0.45,5,2,0,1,3.21,BBB,Medium,Review,Low interest cover: ICR 2.14x; Tight liquidity: Current ratio 0.45x,VGN.AX
+WAM Capital Limited,AUD,Financial Services,Asset Management,2020595456.0,,,,,0,0,0,0,,NR,Unknown,Unknown,Insufficient financial data to score (missing key line items/ratios).,WAM.AX
+Westpac Banking Corporation,AUD,Financial Services,Banks - Diversified,133077803008.0,,,,,0,0,0,0,,NR,Unknown,Unknown,Insufficient financial data to score (missing key line items/ratios).,WBC.AX
+Woolworths Group Limited,AUD,Consumer Defensive,Grocery Stores,35805073408.0,2.04,6.7,3.81,0.57,5,5,2,1,3.3,BBB,Medium,Review,High leverage: Debt/EBITDA 3.81x; Tight liquidity: Current ratio 0.57x,WOW.AX

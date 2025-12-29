@@ -1,0 +1,15 @@
+{
+  "name": "APA Group",
+  "currency": "AUD",
+  "sector": "Utilities",
+  "industry": "Utilities - Regulated Gas",
+  "market_cap": 12342974464,
+  "ebitda": 1939000000.0,
+  "ebit": 949000000.0,
+  "interest_expense": 702000000.0,
+  "total_debt": 14019000000.0,
+  "current_assets": 1414000000.0,
+  "current_liabilities": 904000000.0,
+  "annual_debt_service": 2451000000.0,
+  "_cache_version": 2
+}

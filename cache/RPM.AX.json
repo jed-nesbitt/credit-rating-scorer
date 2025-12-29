@@ -3,12 +3,13 @@
   "currency": "AUD",
   "sector": "Consumer Cyclical",
   "industry": "Auto Parts",
-  "market_cap": 14165985,
+  "market_cap": 14710831,
   "ebitda": 12545444.0,
   "ebit": 8029939.0,
   "interest_expense": 1947834.0,
   "total_debt": 41524678.0,
-  "current_assets": NaN,
-  "current_liabilities": NaN,
-  "annual_debt_service": 3779726.0
+  "current_assets": 55163361.0,
+  "current_liabilities": 39777723.0,
+  "annual_debt_service": 3779726.0,
+  "_cache_version": 2
 }

@@ -1,0 +1,15 @@
+{
+  "name": "4DS Memory Limited",
+  "currency": "AUD",
+  "sector": "Technology",
+  "industry": "Semiconductors",
+  "market_cap": 22669886,
+  "ebitda": -9768283.0,
+  "ebit": -9949343.0,
+  "interest_expense": NaN,
+  "total_debt": 131312.0,
+  "current_assets": 10341196.0,
+  "current_liabilities": 1746100.0,
+  "annual_debt_service": 6565.6,
+  "_cache_version": 2
+}

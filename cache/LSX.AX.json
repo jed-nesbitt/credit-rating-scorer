@@ -3,12 +3,13 @@
   "currency": "AUD",
   "sector": "Basic Materials",
   "industry": "Gold",
-  "market_cap": 141097296,
+  "market_cap": 143245984,
   "ebitda": NaN,
   "ebit": NaN,
-  "interest_expense": NaN,
+  "interest_expense": 84000.0,
   "total_debt": 123000.0,
   "current_assets": NaN,
   "current_liabilities": NaN,
-  "annual_debt_service": 97000.0
+  "annual_debt_service": 181000.0,
+  "_cache_version": 2
 }

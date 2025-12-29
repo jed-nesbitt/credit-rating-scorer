@@ -5,9 +5,9 @@ def safe_div(numerator: float, denominator: float) -> float:
     """
     Safely perform division, returning NaN if denominator is 0 or None.
     """
-    if denominator is None or denominator == 0:
+    if denominator is None or denominator == 0 or (isinstance(denominator, float) and math.isnan(denominator)):
         return math.nan
-    return numerator / denominator
+    return math.nan if numerator is None or (isinstance(numerator, float) and math.isnan(numerator)) else numerator / denominator
 
 
 def calculate_ratios(borrower: Dict[str, Any]) -> Dict[str, float]:

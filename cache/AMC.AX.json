@@ -1,0 +1,15 @@
+{
+  "name": "Amcor plc",
+  "currency": "AUD",
+  "sector": "Consumer Cyclical",
+  "industry": "Packaging & Containers",
+  "market_cap": 28828428288,
+  "ebitda": 1768000000.0,
+  "ebit": 1046000000.0,
+  "interest_expense": 396000000.0,
+  "total_debt": 15008000000.0,
+  "current_assets": 8434000000.0,
+  "current_liabilities": 6987000000.0,
+  "annual_debt_service": 914000000.0,
+  "_cache_version": 2
+}

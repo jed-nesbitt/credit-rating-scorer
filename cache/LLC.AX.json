@@ -1,0 +1,15 @@
+{
+  "name": "Lendlease Group",
+  "currency": "AUD",
+  "sector": "Real Estate",
+  "industry": "Real Estate - Diversified",
+  "market_cap": 3660433920,
+  "ebitda": 739000000.0,
+  "ebit": 646000000.0,
+  "interest_expense": 282000000.0,
+  "total_debt": 4054000000.0,
+  "current_assets": 3727000000.0,
+  "current_liabilities": 4550000000.0,
+  "annual_debt_service": 8093000000.0,
+  "_cache_version": 2
+}

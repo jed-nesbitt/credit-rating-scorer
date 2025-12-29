@@ -1,0 +1,15 @@
+{
+  "name": "Yancoal Australia Ltd",
+  "currency": "AUD",
+  "sector": "Energy",
+  "industry": "Thermal Coal",
+  "market_cap": 6516368384,
+  "ebitda": 2470000000.0,
+  "ebit": 1720000000.0,
+  "interest_expense": 31000000.0,
+  "total_debt": 112000000.0,
+  "current_assets": 3540000000.0,
+  "current_liabilities": 1234000000.0,
+  "annual_debt_service": 36600000.0,
+  "_cache_version": 2
+}

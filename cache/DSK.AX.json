@@ -1,0 +1,15 @@
+{
+  "name": "Dusk Group Limited",
+  "currency": "AUD",
+  "sector": "Consumer Cyclical",
+  "industry": "Specialty Retail",
+  "market_cap": 48257592,
+  "ebitda": 26757000.0,
+  "ebit": 7376000.0,
+  "interest_expense": 239000.0,
+  "total_debt": 37838000.0,
+  "current_assets": 38905000.0,
+  "current_liabilities": 30436000.0,
+  "annual_debt_service": 2130900.0,
+  "_cache_version": 2
+}

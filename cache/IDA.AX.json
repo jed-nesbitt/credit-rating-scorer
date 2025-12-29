@@ -1,0 +1,15 @@
+{
+  "name": "Indiana Resources Limited",
+  "currency": "AUD",
+  "sector": "Basic Materials",
+  "industry": "Other Precious Metals & Mining",
+  "market_cap": 25105568,
+  "ebitda": -4344000.0,
+  "ebit": -4403000.0,
+  "interest_expense": NaN,
+  "total_debt": 32000.0,
+  "current_assets": 1752000.0,
+  "current_liabilities": 1263000.0,
+  "annual_debt_service": 1600.0,
+  "_cache_version": 2
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Scentre Group",
+  "currency": "AUD",
+  "sector": "Real Estate",
+  "industry": "REIT - Retail",
+  "market_cap": 21961117696,
+  "ebitda": 1925900000.0,
+  "ebit": 1912200000.0,
+  "interest_expense": 811800000.0,
+  "total_debt": 16774400000.0,
+  "current_assets": 1249000000.0,
+  "current_liabilities": 3624500000.0,
+  "annual_debt_service": 4895100000.0,
+  "_cache_version": 2
+}

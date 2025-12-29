@@ -1,0 +1,15 @@
+{
+  "name": "Insurance Australia Group Limited",
+  "currency": "AUD",
+  "sector": "Financial Services",
+  "industry": "Insurance - Property & Casualty",
+  "market_cap": 18756700160,
+  "ebitda": NaN,
+  "ebit": 2405000000.0,
+  "interest_expense": 192000000.0,
+  "total_debt": 2957000000.0,
+  "current_assets": NaN,
+  "current_liabilities": NaN,
+  "annual_debt_service": 642000000.0,
+  "_cache_version": 2
+}

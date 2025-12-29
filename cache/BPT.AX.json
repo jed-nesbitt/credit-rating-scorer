@@ -1,0 +1,15 @@
+{
+  "name": "Beach Energy Limited",
+  "currency": "AUD",
+  "sector": "Energy",
+  "industry": "Oil & Gas E&P",
+  "market_cap": 2623533824,
+  "ebitda": 439800000.0,
+  "ebit": -12200000.0,
+  "interest_expense": 46700000.0,
+  "total_debt": 571500000.0,
+  "current_assets": 674300000.0,
+  "current_liabilities": 963900000.0,
+  "annual_debt_service": 341700000.0,
+  "_cache_version": 2
+}

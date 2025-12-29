@@ -1,0 +1,15 @@
+{
+  "name": "Cryosite Limited",
+  "currency": "AUD",
+  "sector": "Healthcare",
+  "industry": "Diagnostics & Research",
+  "market_cap": 48809564,
+  "ebitda": 3414000.0,
+  "ebit": 2543000.0,
+  "interest_expense": 20000.0,
+  "total_debt": 2267000.0,
+  "current_assets": 8869000.0,
+  "current_liabilities": 4532000.0,
+  "annual_debt_service": 133350.0,
+  "_cache_version": 2
+}

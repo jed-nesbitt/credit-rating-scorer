@@ -1,0 +1,15 @@
+{
+  "name": "Blackstone Minerals Limited",
+  "currency": "AUD",
+  "sector": "Basic Materials",
+  "industry": "Other Industrial Metals & Mining",
+  "market_cap": 79416120,
+  "ebitda": NaN,
+  "ebit": NaN,
+  "interest_expense": NaN,
+  "total_debt": 1117704.0,
+  "current_assets": 5881148.0,
+  "current_liabilities": 2519147.0,
+  "annual_debt_service": 2835595.0,
+  "_cache_version": 2
+}

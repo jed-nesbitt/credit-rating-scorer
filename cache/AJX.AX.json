@@ -1,0 +1,15 @@
+{
+  "name": "Alexium International Group Limited",
+  "currency": "AUD",
+  "sector": "Basic Materials",
+  "industry": "Specialty Chemicals",
+  "market_cap": 9830358,
+  "ebitda": -3246436.0,
+  "ebit": -3798566.0,
+  "interest_expense": 127723.0,
+  "total_debt": 2545414.0,
+  "current_assets": 2180732.0,
+  "current_liabilities": 1396888.0,
+  "annual_debt_service": 3520615.0,
+  "_cache_version": 2
+}

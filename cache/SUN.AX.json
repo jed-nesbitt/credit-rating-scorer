@@ -1,0 +1,15 @@
+{
+  "name": "Suncorp Group Limited",
+  "currency": "AUD",
+  "sector": "Financial Services",
+  "industry": "Insurance - Property & Casualty",
+  "market_cap": 19168526336,
+  "ebitda": NaN,
+  "ebit": 2768000000.0,
+  "interest_expense": 514000000.0,
+  "total_debt": 2528000000.0,
+  "current_assets": NaN,
+  "current_liabilities": NaN,
+  "annual_debt_service": 2713000000.0,
+  "_cache_version": 2
+}

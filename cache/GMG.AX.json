@@ -1,0 +1,15 @@
+{
+  "name": "Goodman Group",
+  "currency": "AUD",
+  "sector": "Real Estate",
+  "industry": "REIT - Diversified",
+  "market_cap": 63674855424,
+  "ebitda": 2181000000.0,
+  "ebit": 2163400000.0,
+  "interest_expense": 319100000.0,
+  "total_debt": 5275000000.0,
+  "current_assets": 6542600000.0,
+  "current_liabilities": 2452200000.0,
+  "annual_debt_service": 1770200000.0,
+  "_cache_version": 2
+}

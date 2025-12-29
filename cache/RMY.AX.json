@@ -1,0 +1,15 @@
+{
+  "name": "RMA Global Limited",
+  "currency": "AUD",
+  "sector": "Communication Services",
+  "industry": "Internet Content & Information",
+  "market_cap": 30559256,
+  "ebitda": -1197810.0,
+  "ebit": -2168450.0,
+  "interest_expense": 53842.0,
+  "total_debt": 542283.0,
+  "current_assets": 4943608.0,
+  "current_liabilities": 9389868.0,
+  "annual_debt_service": 80956.15,
+  "_cache_version": 2
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Commonwealth Bank of Australia",
+  "currency": "AUD",
+  "sector": "Financial Services",
+  "industry": "Banks - Diversified",
+  "market_cap": 270512668672,
+  "ebitda": NaN,
+  "ebit": NaN,
+  "interest_expense": 41087000000.0,
+  "total_debt": 216232000000.0,
+  "current_assets": NaN,
+  "current_liabilities": NaN,
+  "annual_debt_service": 114284000000.0,
+  "_cache_version": 2
+}

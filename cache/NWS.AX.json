@@ -1,0 +1,15 @@
+{
+  "name": "News Corporation",
+  "currency": "AUD",
+  "sector": "Communication Services",
+  "industry": "Entertainment",
+  "market_cap": 24755560448,
+  "ebitda": 1415000000.0,
+  "ebit": 956000000.0,
+  "interest_expense": NaN,
+  "total_debt": 2940000000.0,
+  "current_assets": 4811000000.0,
+  "current_liabilities": 2608000000.0,
+  "annual_debt_service": 203000000.0,
+  "_cache_version": 2
+}

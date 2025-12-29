@@ -1,0 +1,15 @@
+{
+  "name": "TerraCom Limited",
+  "currency": "AUD",
+  "sector": "Energy",
+  "industry": "Thermal Coal",
+  "market_cap": 53664740,
+  "ebitda": -25686000.0,
+  "ebit": -45224000.0,
+  "interest_expense": 6667000.0,
+  "total_debt": 10996000.0,
+  "current_assets": 49455000.0,
+  "current_liabilities": 78602000.0,
+  "annual_debt_service": 9941000.0,
+  "_cache_version": 2
+}

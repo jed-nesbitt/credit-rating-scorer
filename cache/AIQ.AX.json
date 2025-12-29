@@ -3,12 +3,13 @@
   "currency": "AUD",
   "sector": "Financial Services",
   "industry": "Asset Management",
-  "market_cap": 50327992,
+  "market_cap": 49987940,
   "ebitda": NaN,
   "ebit": NaN,
   "interest_expense": NaN,
   "total_debt": NaN,
   "current_assets": NaN,
   "current_liabilities": NaN,
-  "annual_debt_service": NaN
+  "annual_debt_service": NaN,
+  "_cache_version": 2
 }

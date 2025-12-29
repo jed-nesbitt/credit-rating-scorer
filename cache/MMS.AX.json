@@ -1,0 +1,15 @@
+{
+  "name": "McMillan Shakespeare Limited",
+  "currency": "AUD",
+  "sector": "Industrials",
+  "industry": "Staffing & Employment Services",
+  "market_cap": 1183234944,
+  "ebitda": 245088000.0,
+  "ebit": 173636000.0,
+  "interest_expense": 39616000.0,
+  "total_debt": 758360000.0,
+  "current_assets": 711195000.0,
+  "current_liabilities": 674792000.0,
+  "annual_debt_service": 385491000.0,
+  "_cache_version": 2
+}

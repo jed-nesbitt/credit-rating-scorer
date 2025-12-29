@@ -1,0 +1,15 @@
+{
+  "name": "Block, Inc.",
+  "currency": "AUD",
+  "sector": "Technology",
+  "industry": "Software - Infrastructure",
+  "market_cap": 61140103168,
+  "ebitda": 2062675000.0,
+  "ebit": 1686548000.0,
+  "interest_expense": NaN,
+  "total_debt": 7918613000.0,
+  "current_assets": 19880201000.0,
+  "current_liabilities": 8546798000.0,
+  "annual_debt_service": 1329729000.0,
+  "_cache_version": 2
+}

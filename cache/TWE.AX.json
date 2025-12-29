@@ -1,0 +1,15 @@
+{
+  "name": "Treasury Wine Estates Limited",
+  "currency": "AUD",
+  "sector": "Consumer Defensive",
+  "industry": "Beverages - Wineries & Distilleries",
+  "market_cap": 4416681472,
+  "ebitda": 1027800000.0,
+  "ebit": 861300000.0,
+  "interest_expense": 234600000.0,
+  "total_debt": 2198600000.0,
+  "current_assets": 2213900000.0,
+  "current_liabilities": 1095700000.0,
+  "annual_debt_service": 476500000.0,
+  "_cache_version": 2
+}

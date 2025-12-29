@@ -1,0 +1,15 @@
+{
+  "name": "NZME Limited",
+  "currency": "AUD",
+  "sector": "Communication Services",
+  "industry": "Entertainment",
+  "market_cap": 201337904,
+  "ebitda": 20591000.0,
+  "ebit": -9295000.0,
+  "interest_expense": 3207000.0,
+  "total_debt": 108567000.0,
+  "current_assets": 51146000.0,
+  "current_liabilities": 58065000.0,
+  "annual_debt_service": 122207000.0,
+  "_cache_version": 2
+}

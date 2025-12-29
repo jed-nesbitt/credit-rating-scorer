@@ -1,0 +1,15 @@
+{
+  "name": "Wesfarmers Limited",
+  "currency": "AUD",
+  "sector": "Consumer Cyclical",
+  "industry": "Home Improvement Retail",
+  "market_cap": 92979650560,
+  "ebitda": 6043000000.0,
+  "ebit": 4210000000.0,
+  "interest_expense": 157000000.0,
+  "total_debt": 11168000000.0,
+  "current_assets": 9933000000.0,
+  "current_liabilities": 8328000000.0,
+  "annual_debt_service": 1372000000.0,
+  "_cache_version": 2
+}

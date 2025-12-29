@@ -1,0 +1,15 @@
+{
+  "name": "VBXLIMITED FPO [VBX]",
+  "currency": "AUD",
+  "sector": "Basic Materials",
+  "industry": "Aluminum",
+  "market_cap": 39890580,
+  "ebitda": NaN,
+  "ebit": NaN,
+  "interest_expense": 38266.0,
+  "total_debt": NaN,
+  "current_assets": 0.0,
+  "current_liabilities": 0.0,
+  "annual_debt_service": 38266.0,
+  "_cache_version": 2
+}

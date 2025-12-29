@@ -1,0 +1,15 @@
+{
+  "name": "Servcorp Limited",
+  "currency": "AUD",
+  "sector": "Real Estate",
+  "industry": "Real Estate Services",
+  "market_cap": 685041280,
+  "ebitda": 150040000.0,
+  "ebit": 35506000.0,
+  "interest_expense": NaN,
+  "total_debt": 371198000.0,
+  "current_assets": 167390000.0,
+  "current_liabilities": 201113000.0,
+  "annual_debt_service": 105568000.0,
+  "_cache_version": 2
+}

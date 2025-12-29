@@ -1,0 +1,15 @@
+{
+  "name": "ASX Limited",
+  "currency": "AUD",
+  "sector": "Financial Services",
+  "industry": "Financial Data & Stock Exchanges",
+  "market_cap": 10078311424,
+  "ebitda": 1262900000.0,
+  "ebit": 1213600000.0,
+  "interest_expense": 494400000.0,
+  "total_debt": 310900000.0,
+  "current_assets": 14645200000.0,
+  "current_liabilities": 13132100000.0,
+  "annual_debt_service": 497400000.0,
+  "_cache_version": 2
+}

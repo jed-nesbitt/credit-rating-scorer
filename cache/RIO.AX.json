@@ -1,0 +1,15 @@
+{
+  "name": "Rio Tinto Group",
+  "currency": "AUD",
+  "sector": "Basic Materials",
+  "industry": "Other Industrial Metals & Mining",
+  "market_cap": 240264921088,
+  "ebitda": 23162000000.0,
+  "ebit": 17244000000.0,
+  "interest_expense": 1629000000.0,
+  "total_debt": 13855000000.0,
+  "current_assets": 19120000000.0,
+  "current_liabilities": 11743000000.0,
+  "annual_debt_service": 2944000000.0,
+  "_cache_version": 2
+}

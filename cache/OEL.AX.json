@@ -1,0 +1,15 @@
+{
+  "name": "Otto Energy Limited",
+  "currency": "AUD",
+  "sector": "Energy",
+  "industry": "Oil & Gas E&P",
+  "market_cap": 19180040,
+  "ebitda": -870000.0,
+  "ebit": -916000.0,
+  "interest_expense": 260000.0,
+  "total_debt": NaN,
+  "current_assets": 43060000.0001,
+  "current_liabilities": 1988999.9999,
+  "annual_debt_service": 260000.0,
+  "_cache_version": 2
+}

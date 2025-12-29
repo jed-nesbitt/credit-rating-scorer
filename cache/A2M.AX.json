@@ -1,0 +1,15 @@
+{
+  "name": "The a2 Milk Company Limited",
+  "currency": "AUD",
+  "sector": "Consumer Defensive",
+  "industry": "Packaged Foods",
+  "market_cap": 6650116096,
+  "ebitda": 318065000.0,
+  "ebit": 291727000.0,
+  "interest_expense": 2475000.0,
+  "total_debt": 100736000.0,
+  "current_assets": 1451001000.0,
+  "current_liabilities": 450080000.0,
+  "annual_debt_service": 41475000.0,
+  "_cache_version": 2
+}

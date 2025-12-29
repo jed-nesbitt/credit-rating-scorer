@@ -1,0 +1,15 @@
+{
+  "name": "Bowen Coking Coal Limited",
+  "currency": "AUD",
+  "sector": "Basic Materials",
+  "industry": "Coking Coal",
+  "market_cap": 8081816,
+  "ebitda": -17025134.0,
+  "ebit": -49133280.0,
+  "interest_expense": 46323561.0,
+  "total_debt": 158784407.0,
+  "current_assets": 75417842.0,
+  "current_liabilities": 147278000.0,
+  "annual_debt_service": 48189208.0,
+  "_cache_version": 2
+}

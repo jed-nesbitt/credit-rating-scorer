@@ -1,0 +1,15 @@
+{
+  "name": "Brambles Limited",
+  "currency": "AUD",
+  "sector": "Industrials",
+  "industry": "Specialty Business Services",
+  "market_cap": 30935820288,
+  "ebitda": 2033000000.0,
+  "ebit": 1231000000.0,
+  "interest_expense": 104700000.0,
+  "total_debt": 2641000000.0,
+  "current_assets": 1379900000.0,
+  "current_liabilities": 2264999999.9999,
+  "annual_debt_service": 1323100000.0,
+  "_cache_version": 2
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Kingston Resources Limited",
+  "currency": "AUD",
+  "sector": "Basic Materials",
+  "industry": "Gold",
+  "market_cap": 113429184,
+  "ebitda": 7335338.0,
+  "ebit": 620724.0,
+  "interest_expense": 1341077.0,
+  "total_debt": 9722775.0,
+  "current_assets": 11612370.0,
+  "current_liabilities": 13996153.0,
+  "annual_debt_service": 1378207.0,
+  "_cache_version": 2
+}

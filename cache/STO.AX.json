@@ -1,0 +1,15 @@
+{
+  "name": "Santos Limited",
+  "currency": "AUD",
+  "sector": "Energy",
+  "industry": "Oil & Gas E&P",
+  "market_cap": 19681503232,
+  "ebitda": 3674000000.0,
+  "ebit": 1995000000.0,
+  "interest_expense": 246000000.0,
+  "total_debt": 6688000000.0,
+  "current_assets": 3186000000.0,
+  "current_liabilities": 2413000000.0,
+  "annual_debt_service": 913000000.0,
+  "_cache_version": 2
+}

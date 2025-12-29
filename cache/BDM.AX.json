@@ -1,0 +1,15 @@
+{
+  "name": "Burgundy Diamond Mines Limited",
+  "currency": "AUD",
+  "sector": "Basic Materials",
+  "industry": "Other Precious Metals & Mining",
+  "market_cap": 24168936,
+  "ebitda": -56137000.0,
+  "ebit": -107363000.0,
+  "interest_expense": 25705000.0,
+  "total_debt": 90900000.0,
+  "current_assets": 233671000.0,
+  "current_liabilities": 66260000.0,
+  "annual_debt_service": 48950000.0,
+  "_cache_version": 2
+}

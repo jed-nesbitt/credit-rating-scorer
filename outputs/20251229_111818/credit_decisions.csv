@@ -1,0 +1,237 @@
+name,currency,sector,industry,market_cap,dscr,interest_coverage,debt_ebitda,current_ratio,dscr_score,interest_coverage_score,debt_ebitda_score,current_ratio_score,total_score,rating,risk_band,decision,reason_codes,ticker
+4DS Memory Limited,AUD,Technology,Semiconductors,22669886.0,-1487.8,,-0.01,5.92,1,0,5,5,3.35,BBB,Medium,Decline,DSCR below 1.0x,4DS.AX
+The a2 Milk Company Limited,AUD,Consumer Defensive,Packaged Foods,6650116096.0,7.67,117.87,0.32,3.22,5,5,5,5,5.0,AAA,Low,Approve,,A2M.AX
+Alcoa Corporation,AUD,Basic Materials,Aluminum,22946799616.0,1.3,2.85,2.59,1.45,3,3,3,3,3.0,BBB,Medium,Review,,AAI.AX
+Alfabs Australia Limited,AUD,Industrials,Conglomerates,116068144.0,1.33,35.03,1.26,1.12,3,5,4,2,3.4,BBB,Medium,Review,Tight liquidity: Current ratio 1.12x,AAL.AX
+Acumentis Group Limited,AUD,Real Estate,Real Estate Services,16721629.0,2.38,17.36,0.53,1.17,5,5,5,2,4.4,AA,Low,Approve,,ACU.AX
+Andromeda Metals Limited,AUD,Basic Materials,Other Industrial Metals & Mining,64728080.0,-285.53,,-0.07,2.26,1,0,5,5,3.35,BBB,Medium,Decline,DSCR below 1.0x,ADN.AX
+ASF Group Limited,AUD,Financial Services,Capital Markets,37242692.0,-2.37,-2.72,-5.01,0.29,1,1,5,1,2.2,B,High,Decline,DSCR below 1.0x; Interest coverage below 1.5x,AFA.AX
+Australian Foundation Investment Company Limited,AUD,Financial Services,Asset Management,8971362304.0,,,,,0,0,0,0,,NR,Unknown,Unknown,Insufficient financial data to score (missing key line items/ratios).,AFI.AX
+AFT Corporation Limited,,,,1647536569843712.0,,,,,0,0,0,0,,NR,Unknown,Unknown,Insufficient financial data to score (missing key line items/ratios).,AFT.AX
+AGL Energy Limited,AUD,Utilities,Utilities - Independent Power Producers,6270004224.0,0.84,0.62,3.29,0.95,1,1,3,1,1.6,CCC,High,Decline,DSCR below 1.0x; Interest coverage below 1.5x,AGL.AX
+Argosy Minerals Limited,AUD,Basic Materials,Other Industrial Metals & Mining,200644720.0,-502.49,-695.4,-0.01,9.6,1,1,5,5,3.0,BBB,Medium,Decline,DSCR below 1.0x; Interest coverage below 1.5x,AGY.AX
+Alternative Investment Trust,AUD,Financial Services,Asset Management,49987940.0,,,,,0,0,0,0,,NR,Unknown,Unknown,Insufficient financial data to score (missing key line items/ratios).,AIQ.AX
+Alexium International Group Limited,AUD,Basic Materials,Specialty Chemicals,9830358.0,-0.92,-29.74,-0.78,1.56,1,1,5,4,2.8,BB,Medium,Decline,DSCR below 1.0x; Interest coverage below 1.5x,AJX.AX
+Aristocrat Leisure Limited,AUD,Consumer Cyclical,Gambling,35500974080.0,3.93,12.11,0.76,1.65,5,5,5,4,4.8,AAA,Low,Approve,,ALL.AX
+Atlas Arteria Limited,AUD,Industrials,Infrastructure Operations,7196134912.0,2.28,3.93,4.16,2.73,5,3,2,5,3.8,A,Low,Approve,,ALX.AX
+Amcor plc,AUD,Consumer Cyclical,Packaging & Containers,28828428288.0,1.93,2.64,8.49,1.21,4,3,1,3,2.75,BB,Medium,Decline,High leverage: Debt/EBITDA 8.49x,AMC.AX
+Atomos Limited,AUD,Technology,Consumer Electronics,38553124.0,-2.0,-16.95,-0.27,1.57,1,1,5,4,2.8,BB,Medium,Decline,DSCR below 1.0x; Interest coverage below 1.5x,AMS.AX
+Ansell Limited,AUD,Healthcare,Medical Instruments & Supplies,5086998528.0,1.64,4.47,3.1,2.13,4,4,3,5,3.9,A,Low,Approve,,ANN.AX
+Anatara Lifesciences Ltd,AUD,Healthcare,Biotechnology,3763084.0,,,,5.66,0,0,0,5,5.0,AAA,Low,Unknown,Insufficient financial data to score (missing key line items/ratios).,ANR.AX
+ANZ Group Holdings Limited,AUD,Financial Services,Banks - Diversified,108608577536.0,,,,,0,0,0,0,,NR,Unknown,Unknown,Insufficient financial data to score (missing key line items/ratios).,ANZ.AX
+Australian Unity Office Fund,AUD,Real Estate,REIT - Office,63287456.0,-530.16,-530.16,,4.71,1,1,0,5,2.14,B,High,Decline,DSCR below 1.0x; Interest coverage below 1.5x,AOF.AX
+Amotiv Limited,AUD,Consumer Cyclical,Auto Parts,1171187200.0,0.02,-2.39,150.11,2.32,1,1,1,5,1.8,CCC,High,Decline,DSCR below 1.0x; Interest coverage below 1.5x,AOV.AX
+APA Group,AUD,Utilities,Utilities - Regulated Gas,12342974464.0,0.79,1.35,7.23,1.56,1,1,1,4,1.6,CCC,High,Decline,DSCR below 1.0x; Interest coverage below 1.5x,APA.AX
+Aims Property Securities Fund,AUD,Real Estate,REIT - Diversified,138899280.0,,,,2.79,0,0,0,5,5.0,AAA,Low,Unknown,Insufficient financial data to score (missing key line items/ratios).,APW.AX
+Alliance Aviation Services Limited,AUD,Industrials,Airports & Air Services,201283840.0,3.11,3.6,2.5,2.15,5,3,3,5,4.1,AA,Low,Approve,,AQZ.AX
+ARB Corporation Limited,AUD,Consumer Cyclical,Auto Parts,2641365248.0,36.21,58.25,0.27,4.13,5,5,5,5,5.0,AAA,Low,Approve,,ARB.AX
+Abacus Storage King,AUD,Real Estate,REIT - Industrial,2023718400.0,0.33,9.11,3.42,1.75,1,5,3,4,2.8,BB,Medium,Decline,DSCR below 1.0x,ASK.AX
+ASX Limited,AUD,Financial Services,Financial Data & Stock Exchanges,10078311424.0,2.54,2.45,0.25,1.12,5,2,5,2,3.95,A,Low,Approve,,ASX.AX
+Atlas Pearls Limited,AUD,Consumer Cyclical,Luxury Goods,81222880.0,27.57,476.5,0.01,6.66,5,5,5,5,5.0,AAA,Low,Approve,,ATP.AX
+AUB Group Limited,AUD,Financial Services,Insurance Brokers,3575736576.0,4.74,4.15,2.12,1.13,5,4,3,2,3.65,A,Low,Approve,,AUB.AX
+AVADA Group Limited,AUD,Industrials,Infrastructure Operations,11890903.0,1.16,1.14,3.1,1.33,2,1,3,3,2.35,B,High,Decline,Interest coverage below 1.5x,AVD.AX
+Archer Materials Limited,AUD,Technology,Semiconductors,89196448.0,-12210.03,,-0.0,23.34,1,0,5,5,3.35,BBB,Medium,Decline,DSCR below 1.0x,AXE.AX
+Asian Battery Metals PLC,AUD,Basic Materials,Other Industrial Metals & Mining,18875338.0,-19.42,,,6.17,1,0,0,5,2.45,B,High,Decline,DSCR below 1.0x,AZ9.AX
+Bowen Coking Coal Limited,AUD,Basic Materials,Coking Coal,8081816.0,-0.35,-1.06,-9.33,0.51,1,1,5,1,2.2,B,High,Decline,DSCR below 1.0x; Interest coverage below 1.5x,BCB.AX
+Beam Communications Holdings Limited,AUD,Technology,Communication Equipment,7691551.0,-72.35,-118.95,-0.08,1.61,1,1,5,4,2.8,BB,Medium,Decline,DSCR below 1.0x; Interest coverage below 1.5x,BCC.AX
+Burgundy Diamond Mines Limited,AUD,Basic Materials,Other Precious Metals & Mining,24168936.0,-1.15,-4.18,-1.62,3.53,1,1,5,5,3.0,BBB,Medium,Decline,DSCR below 1.0x; Interest coverage below 1.5x,BDM.AX
+BSP Financial Group Limited,AUD,Financial Services,Banks - Regional,3782700288.0,,,,,0,0,0,0,,NR,Unknown,Unknown,Insufficient financial data to score (missing key line items/ratios).,BFL.AX
+BHP Group Limited,AUD,Basic Materials,Other Industrial Metals & Mining,232378957824.0,7.26,10.79,0.95,1.46,5,5,5,3,4.6,AAA,Low,Approve,,BHP.AX
+Biome Australia Limited,AUD,Consumer Defensive,Packaged Foods,92382832.0,-3.05,-10.16,-1.01,1.5,1,1,5,3,2.6,BB,Medium,Decline,DSCR below 1.0x; Interest coverage below 1.5x,BIO.AX
+Black Rock Mining Limited,AUD,Basic Materials,Other Industrial Metals & Mining,27920416.0,-436.41,,-0.05,2.96,1,0,5,5,3.35,BBB,Medium,Decline,DSCR below 1.0x,BKT.AX
+Blue Star Helium Limited,AUD,Energy,Oil & Gas E&P,14994173.0,-6.17,-9.68,-1.03,2.87,1,1,5,5,3.0,BBB,Medium,Decline,DSCR below 1.0x; Interest coverage below 1.5x,BNL.AX
+Boom Logistics Limited,AUD,Industrials,Specialty Business Services,67177608.0,1.84,7.46,2.44,1.16,4,5,3,2,3.45,BBB,Medium,Review,Tight liquidity: Current ratio 1.16x,BOL.AX
+BPH Energy Limited,AUD,Financial Services,Asset Management,12196267.0,-395.04,,-0.05,15.41,1,0,5,5,3.35,BBB,Medium,Decline,DSCR below 1.0x,BPH.AX
+Beach Energy Limited,AUD,Energy,Oil & Gas E&P,2623533824.0,1.29,-0.26,1.3,0.7,3,1,4,1,2.6,BB,Medium,Decline,Interest coverage below 1.5x,BPT.AX
+Breville Group Limited,AUD,Consumer Cyclical,"Furnishings, Fixtures & Appliances",4262478848.0,0.8,16.41,0.44,2.18,1,5,5,5,3.6,A,Low,Decline,DSCR below 1.0x,BRG.AX
+Blackstone Minerals Limited,AUD,Basic Materials,Other Industrial Metals & Mining,79416120.0,,,,2.33,0,0,0,5,5.0,AAA,Low,Unknown,Insufficient financial data to score (missing key line items/ratios).,BSX.AX
+Brambles Limited,AUD,Industrials,Specialty Business Services,30935820288.0,1.54,11.76,1.3,0.61,4,5,4,1,3.55,A,Low,Approve,,BXB.AX
+Bioxyne Limited,AUD,Consumer Defensive,Packaged Foods,93468008.0,-49.24,,-0.41,1.92,1,0,5,4,3.12,BBB,Medium,Decline,DSCR below 1.0x,BXN.AX
+Capral Limited,AUD,Basic Materials,Aluminum,196676384.0,10.8,36.65,1.55,1.85,5,5,4,4,4.5,AAA,Low,Approve,,CAA.AX
+Cann Group Limited,AUD,Healthcare,Drug Manufacturers - Specialty & Generic,14137313.0,-1.73,-6.51,-2.17,0.21,1,1,5,1,2.2,B,High,Decline,DSCR below 1.0x; Interest coverage below 1.5x,CAN.AX
+Commonwealth Bank of Australia,AUD,Financial Services,Banks - Diversified,270512668672.0,,,,,0,0,0,0,,NR,Unknown,Unknown,Insufficient financial data to score (missing key line items/ratios).,CBA.AX
+Comms Group Limited,AUD,Technology,Information Technology Services,36573292.0,0.35,0.16,4.79,0.62,1,1,2,1,1.3,CCC,High,Decline,DSCR below 1.0x; Interest coverage below 1.5x,CCG.AX
+Credit Corp Group Limited,AUD,Financial Services,Credit Services,957020032.0,1.03,4.69,2.38,6.91,2,4,3,5,3.2,BBB,Medium,Review,Weak cashflow coverage: DSCR 1.03x,CCP.AX
+Codan Limited,AUD,Technology,Scientific & Technical Instruments,5250553344.0,2.03,13.07,0.88,1.66,5,5,5,4,4.8,AAA,Low,Approve,,CDA.AX
+Cadence Capital Limited,AUD,Financial Services,Asset Management,210490432.0,,,,,0,0,0,0,,NR,Unknown,Unknown,Insufficient financial data to score (missing key line items/ratios).,CDM.AX
+Contact Energy Limited,AUD,Utilities,Utilities - Renewable,8049697792.0,1.5,5.77,2.94,1.11,3,5,3,2,3.1,BBB,Medium,Review,Tight liquidity: Current ratio 1.11x,CEN.AX
+Carlton Investments Ltd.,AUD,Financial Services,Asset Management,911960384.0,,,,,0,0,0,0,,NR,Unknown,Unknown,Insufficient financial data to score (missing key line items/ratios).,CIN.AX
+Close the Loop Ltd,AUD,Industrials,Waste Management,17551046.0,1.2,-1.54,9.48,0.81,3,1,1,1,1.7,CCC,High,Decline,Interest coverage below 1.5x,CLG.AX
+Classic Minerals Limited,AUD,Basic Materials,Other Industrial Metals & Mining,4265855.0,-1.58,-2.31,-1.42,0.11,1,1,5,1,2.2,B,High,Decline,DSCR below 1.0x; Interest coverage below 1.5x,CLZ.AX
+Carnaby Resources Limited,AUD,Basic Materials,Other Precious Metals & Mining,127015144.0,-607.83,-728.1,-0.01,4.24,1,1,5,5,3.0,BBB,Medium,Decline,DSCR below 1.0x; Interest coverage below 1.5x,CNB.AX
+Centuria Office REIT,AUD,Real Estate,REIT - Office,680963008.0,0.31,0.59,31.21,0.33,1,1,1,1,1.0,CCC,High,Decline,DSCR below 1.0x; Interest coverage below 1.5x,COF.AX
+Cochlear Limited,AUD,Healthcare,Medical Devices,17085348864.0,27.21,48.14,0.38,2.35,5,5,5,5,5.0,AAA,Low,Approve,,COH.AX
+Coles Group Limited,AUD,Consumer Defensive,Grocery Stores,28822425600.0,5.09,14.24,3.21,0.61,5,5,3,1,3.6,A,Low,Approve,,COL.AX
+Computershare Limited,AUD,Financial Services,Capital Markets,20091531264.0,2.15,8.05,2.13,2.2,5,5,3,5,4.4,AA,Low,Approve,,CPU.AX
+CSL Limited,AUD,Healthcare,Biotechnology,83848716288.0,4.19,10.48,2.24,2.46,5,5,3,5,4.4,AA,Low,Approve,,CSL.AX
+Cryosite Limited,AUD,Healthcare,Diagnostics & Research,48809564.0,25.6,127.15,0.66,1.96,5,5,5,4,4.8,AAA,Low,Approve,,CTE.AX
+Cue Energy Resources Limited,AUD,Energy,Oil & Gas E&P,76975720.0,57.38,40.79,0.01,2.53,5,5,5,5,5.0,AAA,Low,Approve,,CUE.AX
+ClearView Wealth Limited,AUD,Financial Services,Insurance - Life,345635136.0,,2.24,,,0,2,0,0,2.0,B,High,Unknown,Insufficient financial data to score (missing key line items/ratios).,CVW.AX
+Cedar Woods Properties Limited,AUD,Real Estate,Real Estate - Development,742711296.0,3.6,5.55,1.58,1.62,5,5,4,4,4.5,AAA,Low,Approve,,CWP.AX
+Decidr AI Industries Ltd,AUD,Technology,Software - Infrastructure,196154288.0,-151.04,-153.48,-0.0,0.84,1,1,5,1,2.2,B,High,Decline,DSCR below 1.0x; Interest coverage below 1.5x,DAI.AX
+DigitalX Limited,AUD,Technology,Software - Infrastructure,58051924.0,-87.93,-130.52,-0.07,3.6,1,1,5,5,3.0,BBB,Medium,Decline,DSCR below 1.0x; Interest coverage below 1.5x,DCC.AX
+Dicker Data Limited,AUD,Technology,Electronics & Computer Distribution,1842533888.0,3.53,5.6,2.43,1.57,5,5,3,4,4.2,AA,Low,Approve,,DDR.AX
+DIGICO INF STAPLED [DGT],AUD,Real Estate,REIT - Specialty,1516601344.0,,,,,0,0,0,0,,NR,Unknown,Unknown,Insufficient financial data to score (missing key line items/ratios).,DGT.AX
+DPMMETALS CDI 1:1 [DPM],AUD,Basic Materials,Gold,11061163008.0,55.87,176.88,0.04,11.99,5,5,5,5,5.0,AAA,Low,Approve,,DPM.AX
+Dusk Group Limited,AUD,Consumer Cyclical,Specialty Retail,48257592.0,12.56,30.86,1.41,1.28,5,5,4,3,4.3,AA,Low,Approve,,DSK.AX
+DTI Group Limited,AUD,Industrials,Security & Protection Services,9851037.0,-4.69,-12.3,-0.45,1.77,1,1,5,4,2.8,BB,Medium,Decline,DSCR below 1.0x; Interest coverage below 1.5x,DTI.AX
+Elanor Commercial Property Fund,AUD,Real Estate,Real Estate Services,266586304.0,0.3,0.4,53.65,0.76,1,1,1,1,1.0,CCC,High,Decline,DSCR below 1.0x; Interest coverage below 1.5x,ECF.AX
+Echelon Resources Limited,AUD,Energy,Oil & Gas E&P,73903784.0,4.18,2.86,0.96,2.76,5,3,5,5,4.7,AAA,Low,Approve,,ECH.AX
+Endeavour Group Limited,AUD,Consumer Defensive,Beverages - Wineries & Distilleries,6653163520.0,0.28,6.74,4.11,0.92,1,5,2,1,1.9,CCC,High,Decline,DSCR below 1.0x,EDV.AX
+Eagle Mountain Mining Limited,AUD,Basic Materials,Other Industrial Metals & Mining,11870436.0,-10.05,-28.06,-0.73,0.48,1,1,5,1,2.2,B,High,Decline,DSCR below 1.0x; Interest coverage below 1.5x,EM2.AX
+EQT Holdings Limited,AUD,Financial Services,Asset Management,633610816.0,4.77,9.71,1.34,,5,5,4,0,4.63,AAA,Low,Approve,,EQT.AX
+Equus Energy Ltd,AUD,Utilities,Utilities - Regulated Gas,38932856.0,,,,40.75,0,0,0,5,5.0,AAA,Low,Unknown,Insufficient financial data to score (missing key line items/ratios).,EQU.AX
+Evolution Mining Limited,AUD,Basic Materials,Gold,26733129728.0,1.68,5.36,1.42,1.09,4,5,4,2,3.75,A,Low,Approve,,EVN.AX
+Embark Early Education Limited,AUD,Consumer Defensive,Education & Training Services,125141376.0,3.73,71.06,6.97,0.7,5,5,1,1,3.0,BBB,Medium,Review,High leverage: Debt/EBITDA 6.97x; Tight liquidity: Current ratio 0.70x,EVO.AX
+Energy World Corporation Ltd,AUD,Utilities,Utilities - Independent Power Producers,200298800.0,-6.22,-14.47,-1.06,0.02,1,1,5,1,2.2,B,High,Decline,DSCR below 1.0x; Interest coverage below 1.5x,EWC.AX
+Euroz Hartleys Group Limited,AUD,Financial Services,Asset Management,169274880.0,,,,,0,0,0,0,,NR,Unknown,Unknown,Insufficient financial data to score (missing key line items/ratios).,EZL.AX
+Freedom Care Group Holdings Limited,AUD,Healthcare,Medical Care Facilities,4007738.0,11.43,32.26,1.25,2.12,5,5,4,5,4.7,AAA,Low,Approve,,FCG.AX
+FFI Holdings Limited,AUD,Consumer Defensive,Confectioners,64271292.0,453.65,850.58,0.82,1.81,5,5,5,4,4.8,AAA,Low,Approve,,FFI.AX
+Fortescue Ltd,AUD,Basic Materials,Other Industrial Metals & Mining,67844993024.0,87.9,80.21,0.72,2.43,5,5,5,5,5.0,AAA,Low,Approve,,FMG.AX
+Fisher & Paykel Healthcare Corporation Limited,AUD,Healthcare,Medical Instruments & Supplies,19074297856.0,3.74,46.34,0.23,1.87,5,5,5,4,4.8,AAA,Low,Approve,,FPH.AX
+Fleetwood Limited,AUD,Industrials,Engineering & Construction,237933408.0,26.63,32.49,0.39,1.98,5,5,5,4,4.8,AAA,Low,Approve,,FWD.AX
+Group 6 Metals Limited,AUD,Basic Materials,Other Industrial Metals & Mining,6188409.0,-13.1,-18.8,-0.63,0.13,1,1,5,1,2.2,B,High,Decline,DSCR below 1.0x; Interest coverage below 1.5x,G6M.AX
+Greatland Resources Limited,AUD,Basic Materials,Gold,7179912192.0,-7.73,-19.51,-1.56,,1,1,5,0,2.5,BB,Medium,Decline,DSCR below 1.0x; Interest coverage below 1.5x,GGP.AX
+Goodman Group,AUD,Real Estate,REIT - Diversified,63674855424.0,1.23,6.78,2.42,2.67,3,5,3,5,3.7,A,Low,Approve,,GMG.AX
+GQG Partners Inc.,AUD,Financial Services,Asset Management,5164616192.0,,,,,0,0,0,0,,NR,Unknown,Unknown,Insufficient financial data to score (missing key line items/ratios).,GQG.AX
+GTN Limited,AUD,Communication Services,Advertising Agencies,56246408.0,1.57,5.65,0.32,1.58,4,5,5,4,4.45,AA,Low,Approve,,GTN.AX
+Greenwing Resources Ltd,AUD,Basic Materials,Other Industrial Metals & Mining,15110726.0,-0.69,-2.21,-0.37,0.26,1,1,5,1,2.2,B,High,Decline,DSCR below 1.0x; Interest coverage below 1.5x,GW1.AX
+H&G High Conviction Limited,AUD,Financial Services,Asset Management,562787.0,,,,,0,0,0,0,,NR,Unknown,Unknown,Insufficient financial data to score (missing key line items/ratios).,HCF.AX
+HealthCo Healthcare and Wellness REIT,AUD,Real Estate,REIT - Healthcare Facilities,404379328.0,-0.87,-2.54,-6.99,0.1,1,1,5,1,2.2,B,High,Decline,DSCR below 1.0x; Interest coverage below 1.5x,HCW.AX
+Hillgrove Resources Limited,AUD,Basic Materials,Copper,157048240.0,1.52,-0.79,0.62,0.35,4,1,5,1,3.25,BBB,Medium,Decline,Interest coverage below 1.5x,HGO.AX
+Hancock & Gore Ltd,AUD,Financial Services,Asset Management,119335024.0,-10.66,-11.13,-0.02,0.98,1,1,5,1,2.2,B,High,Decline,DSCR below 1.0x; Interest coverage below 1.5x,HNG.AX
+Horizon Oil Limited,AUD,Energy,Oil & Gas E&P,333655648.0,3.13,3.78,1.12,2.31,5,3,4,5,4.4,AA,Low,Approve,,HZN.AX
+Insurance Australia Group Limited,AUD,Financial Services,Insurance - Property & Casualty,18756700160.0,,12.53,,,0,5,0,0,5.0,AAA,Low,Unknown,Insufficient financial data to score (missing key line items/ratios).,IAG.AX
+Indiana Resources Limited,AUD,Basic Materials,Other Precious Metals & Mining,25105568.0,-2715.0,,-0.01,1.39,1,0,5,3,2.88,BB,Medium,Decline,DSCR below 1.0x,IDA.AX
+Infratil Limited,AUD,Industrials,Conglomerates,9929908224.0,0.33,0.55,8.17,0.67,1,1,1,1,1.0,CCC,High,Decline,DSCR below 1.0x; Interest coverage below 1.5x,IFT.AX
+Ignite Limited,AUD,Industrials,Staffing & Employment Services,11743546.0,21.28,18.64,0.01,2.73,5,5,5,5,5.0,AAA,Low,Approve,,IGN.AX
+IGO Limited,AUD,Basic Materials,Other Industrial Metals & Mining,6171732480.0,-73.27,-109.18,-0.04,5.55,1,1,5,5,3.0,BBB,Medium,Decline,DSCR below 1.0x; Interest coverage below 1.5x,IGO.AX
+Island Pharmaceuticals Limited,AUD,Healthcare,Biotechnology,119728312.0,-12.05,-61.0,-0.15,2.45,1,1,5,5,3.0,BBB,Medium,Decline,DSCR below 1.0x; Interest coverage below 1.5x,ILA.AX
+Inghams Group Limited,AUD,Consumer Defensive,Farm Products,925482240.0,2.09,5.58,6.88,1.42,5,5,1,3,3.4,BBB,Medium,Review,High leverage: Debt/EBITDA 6.88x,ING.AX
+IPH Limited,AUD,Industrials,Specialty Business Services,925641536.0,0.68,4.53,2.51,2.72,1,4,3,5,2.85,BB,Medium,Decline,DSCR below 1.0x,IPH.AX
+IRIS Metals Limited,AUD,Basic Materials,Gold,46080008.0,,,,15.5,0,0,0,5,5.0,AAA,Low,Unknown,Insufficient financial data to score (missing key line items/ratios).,IR1.AX
+Iron Road Limited,AUD,Basic Materials,Steel,20804820.0,8.66,51.15,,5.11,5,5,0,5,5.0,AAA,Low,Approve,,IRD.AX
+Integrated Research Limited,AUD,Technology,Software - Application,62304172.0,263.97,,0.07,3.12,5,0,5,5,5.0,AAA,Low,Approve,,IRI.AX
+JB Hi-Fi Limited,AUD,Consumer Cyclical,Specialty Retail,10484035584.0,49.25,279.33,0.77,1.17,5,5,5,2,4.4,AA,Low,Approve,,JBH.AX
+James Hardie Industries plc,AUD,Basic Materials,Building Materials,17998290944.0,18.16,16.74,1.34,2.1,5,5,4,5,4.7,AAA,Low,Approve,,JHX.AX
+Keybridge Capital Limited,AUD,Financial Services,Asset Management,10003378.0,,,,,0,0,0,0,,NR,Unknown,Unknown,Insufficient financial data to score (missing key line items/ratios).,KBC.AX
+Kkr Credit Income Fund,AUD,Financial Services,Asset Management,,,,,,0,0,0,0,,NR,Unknown,Unknown,Insufficient financial data to score (missing key line items/ratios).,KKC.AX
+KNeoMedia Limited,AUD,,,7102860.0,0.72,-4.41,5.21,0.05,1,1,1,1,1.0,CCC,High,Decline,DSCR below 1.0x; Interest coverage below 1.5x,KNM.AX
+Korvest Ltd,AUD,Industrials,Metal Fabrication,165656240.0,36.96,,0.54,3.0,5,0,5,5,5.0,AAA,Low,Approve,,KOV.AX
+Kina Securities Limited,AUD,Financial Services,Financial Conglomerates,360347904.0,,,,,0,0,0,0,,NR,Unknown,Unknown,Insufficient financial data to score (missing key line items/ratios).,KSL.AX
+Kingston Resources Limited,AUD,Basic Materials,Gold,113429184.0,5.32,0.46,1.33,0.83,5,1,4,1,3.3,BBB,Medium,Decline,Interest coverage below 1.5x,KSN.AX
+Liberty Financial Group Limited,AUD,Financial Services,Credit Services,1275120000.0,1.05,1.13,11.24,0.36,2,1,1,1,1.35,CCC,High,Decline,Interest coverage below 1.5x,LFG.AX
+Lendlease Group,AUD,Real Estate,Real Estate - Diversified,3660433920.0,0.09,2.29,5.49,0.82,1,2,1,1,1.15,CCC,High,Decline,DSCR below 1.0x,LLC.AX
+"Light & Wonder, Inc.",AUD,Consumer Cyclical,Gambling,12904256512.0,3.54,2.44,3.64,1.61,5,2,2,4,3.45,BBB,Medium,Review,Low interest cover: ICR 2.44x; High leverage: Debt/EBITDA 3.64x,LNW.AX
+Lion Selection Group Limited,AUD,Basic Materials,Gold,143245984.0,,,,,0,0,0,0,,NR,Unknown,Unknown,Insufficient financial data to score (missing key line items/ratios).,LSX.AX
+Lithium Universe Limited,AUD,Basic Materials,Other Industrial Metals & Mining,19393256.0,-19230.62,,-0.0,0.45,1,0,5,1,2.41,B,High,Decline,DSCR below 1.0x,LU7.AX
+Love Group Global Ltd,AUD,Communication Services,Internet Content & Information,4661429.0,,,,2.13,0,0,0,5,5.0,AAA,Low,Unknown,Insufficient financial data to score (missing key line items/ratios).,LVE.AX
+Lycopodium Limited,AUD,Industrials,Engineering & Construction,552786496.0,7.24,164.51,0.24,2.58,5,5,5,5,5.0,AAA,Low,Approve,,LYL.AX
+Macquarie Technology Group Limited,AUD,Technology,Information Technology Services,1728128768.0,13.35,33.45,1.23,2.0,5,5,4,4,4.5,AAA,Low,Approve,,MAQ.AX
+McPherson's Limited,AUD,Consumer Defensive,Household & Personal Products,35267540.0,-1.0,-19.78,-0.6,1.61,1,1,5,4,2.8,BB,Medium,Decline,DSCR below 1.0x; Interest coverage below 1.5x,MCP.AX
+Meridian Energy Limited,AUD,Utilities,Utilities - Renewable,12738251776.0,-0.2,-6.37,-17.63,0.66,1,1,5,1,2.2,B,High,Decline,DSCR below 1.0x; Interest coverage below 1.5x,MEZ.AX
+Mayfield Childcare Limited,AUD,Consumer Cyclical,Personal Services,36580936.0,2.88,1.06,9.62,0.13,5,1,1,1,2.4,B,High,Decline,Interest coverage below 1.5x,MFD.AX
+MFF Capital Investments Limited,AUD,Financial Services,Asset Management,2934146560.0,,,,,0,0,0,0,,NR,Unknown,Unknown,Insufficient financial data to score (missing key line items/ratios).,MFF.AX
+Medallion Metals Limited,AUD,Basic Materials,Other Precious Metals & Mining,340391712.0,-16.24,-33.01,-0.5,7.47,1,1,5,5,3.0,BBB,Medium,Decline,DSCR below 1.0x; Interest coverage below 1.5x,MM8.AX
+Metro Mining Limited,AUD,Basic Materials,Other Industrial Metals & Mining,439976896.0,-0.06,-0.79,,,1,1,0,0,1.0,CCC,High,Decline,DSCR below 1.0x; Interest coverage below 1.5x,MMI.AX
+McMillan Shakespeare Limited,AUD,Industrials,Staffing & Employment Services,1183234944.0,0.64,4.38,3.09,1.05,1,4,3,2,2.25,B,High,Decline,DSCR below 1.0x,MMS.AX
+Metrics Income Opportunities Trust,AUD,Financial Services,Asset Management,625053952.0,,,,,0,0,0,0,,NR,Unknown,Unknown,Insufficient financial data to score (missing key line items/ratios).,MOT.AX
+Medibank Private Limited,AUD,Financial Services,Insurance - Specialty,13177905152.0,,67.25,,,0,5,0,0,5.0,AAA,Low,Unknown,Insufficient financial data to score (missing key line items/ratios).,MPL.AX
+Macquarie Group Limited,AUD,Financial Services,Capital Markets,78735638528.0,1.31,1.35,16.09,2.66,3,1,1,5,2.5,BB,Medium,Decline,Interest coverage below 1.5x,MQG.AX
+Mineral Commodities Ltd,AUD,Basic Materials,Other Industrial Metals & Mining,25596288.0,-2.4,-64.64,-1.09,1.99,1,1,5,4,2.8,BB,Medium,Decline,DSCR below 1.0x; Interest coverage below 1.5x,MRC.AX
+Multistack International Limited,AUD,Industrials,Specialty Industrial Machinery,681520.0,-3.15,-7.61,-3.54,0.14,1,1,5,1,2.2,B,High,Decline,DSCR below 1.0x; Interest coverage below 1.5x,MSI.AX
+Mitchell Services Limited,AUD,Basic Materials,Other Industrial Metals & Mining,72067224.0,2.41,1.58,0.42,1.17,5,2,5,2,3.95,A,Low,Approve,,MSV.AX
+Mantle Minerals Limited,AUD,Basic Materials,Other Industrial Metals & Mining,7233115.0,,,,1.0,0,0,0,2,2.0,B,High,Unknown,Insufficient financial data to score (missing key line items/ratios).,MTL.AX
+Metcash Limited,AUD,Consumer Defensive,Food Distribution,3665128960.0,0.7,6.1,2.7,1.04,1,5,3,2,2.4,B,High,Decline,DSCR below 1.0x,MTS.AX
+Monash IVF Group Limited,AUD,Healthcare,Diagnostics & Research,286381632.0,1.04,-2.73,12.56,0.54,2,1,1,1,1.35,CCC,High,Decline,Interest coverage below 1.5x,MVF.AX
+Marvel Gold Limited,AUD,Basic Materials,Gold,22711346.0,,,,1.22,0,0,0,3,3.0,BBB,Medium,Unknown,Insufficient financial data to score (missing key line items/ratios).,MVL.AX
+National Australia Bank Limited,AUD,Financial Services,Banks - Diversified,129586651136.0,,,,,0,0,0,0,,NR,Unknown,Unknown,Insufficient financial data to score (missing key line items/ratios).,NAB.AX
+NAOS Ex-50 Opportunities Company Limited,AUD,Financial Services,Asset Management,32056314.0,,,,,0,0,0,0,,NR,Unknown,Unknown,Insufficient financial data to score (missing key line items/ratios).,NAC.AX
+NAOS Emerging Opportunities Company Limited,AUD,Financial Services,Asset Management,31364830.0,,,,,0,0,0,0,,NR,Unknown,Unknown,Insufficient financial data to score (missing key line items/ratios).,NCC.AX
+Nido Education Limited,AUD,Consumer Defensive,Education & Training Services,125997832.0,0.52,12.11,7.09,0.3,1,5,1,1,1.6,CCC,High,Decline,DSCR below 1.0x,NDO.AX
+Newmont Corporation,AUD,Basic Materials,Gold,178499780608.0,1.74,13.21,1.19,1.63,4,5,4,4,4.15,AA,Low,Approve,,NEM.AX
+Neuren Pharmaceuticals Limited,AUD,Healthcare,Biotechnology,2449208576.0,,,,8.73,0,0,0,5,5.0,AAA,Low,Unknown,Insufficient financial data to score (missing key line items/ratios).,NEU.AX
+Neometals Ltd,AUD,Industrials,Waste Management,48540968.0,-38.24,-78.25,-0.26,9.92,1,1,5,5,3.0,BBB,Medium,Decline,DSCR below 1.0x; Interest coverage below 1.5x,NMT.AX
+Norwood Systems Limited,AUD,Communication Services,Telecom Services,7922987.0,,,,0.21,0,0,0,1,1.0,CCC,High,Unknown,Insufficient financial data to score (missing key line items/ratios).,NOR.AX
+NAOS Small Cap Opportunities Company Limited,AUD,Financial Services,Asset Management,51480504.0,,,,,0,0,0,0,,NR,Unknown,Unknown,Insufficient financial data to score (missing key line items/ratios).,NSC.AX
+Northern Star Resources Limited,AUD,Basic Materials,Gold,39059075072.0,16.94,17.66,0.5,1.82,5,5,5,4,4.8,AAA,Low,Approve,,NST.AX
+NTAW Holdings Limited,AUD,Consumer Cyclical,Auto Parts,38572752.0,-1.21,-5.26,-11.73,1.34,1,1,5,3,2.6,BB,Medium,Decline,DSCR below 1.0x; Interest coverage below 1.5x,NTD.AX
+News Corporation,AUD,Communication Services,Entertainment,24755560448.0,6.97,,2.08,1.84,5,0,3,4,4.06,AA,Low,Approve,,NWS.AX
+NZME Limited,AUD,Communication Services,Entertainment,201337904.0,0.17,-2.9,5.27,0.88,1,1,1,1,1.0,CCC,High,Decline,DSCR below 1.0x; Interest coverage below 1.5x,NZM.AX
+Omni Bridgeway Limited,AUD,Financial Services,Credit Services,417940256.0,41.45,50.04,0.1,,5,5,5,0,5.0,AAA,Low,Approve,,OBL.AX
+Otto Energy Limited,AUD,Energy,Oil & Gas E&P,19180040.0,-3.35,-3.52,,21.65,1,1,0,5,2.14,B,High,Decline,DSCR below 1.0x; Interest coverage below 1.5x,OEL.AX
+Orion Equities Limited,AUD,Financial Services,Asset Management,2895107.0,,,,,0,0,0,0,,NR,Unknown,Unknown,Insufficient financial data to score (missing key line items/ratios).,OEQ.AX
+Ophir Asset Management Pty Ltd - Ophir High Conviction Fund,AUD,Financial Services,Asset Management,707861632.0,,,,,0,0,0,0,,NR,Unknown,Unknown,Insufficient financial data to score (missing key line items/ratios).,OPH.AX
+Origin Energy Limited,AUD,Utilities,Utilities - Diversified,19475662848.0,1.74,11.36,2.09,1.15,4,5,3,2,3.45,BBB,Medium,Review,Tight liquidity: Current ratio 1.15x,ORG.AX
+Pacific Current Group Limited,AUD,Financial Services,Asset Management,308009984.0,,,,,0,0,0,0,,NR,Unknown,Unknown,Insufficient financial data to score (missing key line items/ratios).,PAC.AX
+PLS Group Limited,AUD,Basic Materials,Other Industrial Metals & Mining,14075128832.0,0.17,-1.94,9.06,4.35,1,1,1,5,1.8,CCC,High,Decline,DSCR below 1.0x; Interest coverage below 1.5x,PLS.AX
+Pro Medicus Limited,AUD,Healthcare,Health Information Services,23470000128.0,1462.08,,0.01,6.49,5,0,5,5,5.0,AAA,Low,Approve,,PME.AX
+Prestal Holdings Limited,AUD,Consumer Defensive,Household & Personal Products,7841137.0,-9.12,-231.76,-0.0,12.54,1,1,5,5,3.0,BBB,Medium,Decline,DSCR below 1.0x; Interest coverage below 1.5x,PTL.AX
+PEXA Group Limited,AUD,Technology,Software - Application,2424265216.0,1.11,-1.0,3.9,1.24,2,1,2,3,2.05,B,High,Decline,Interest coverage below 1.5x,PXA.AX
+Qantas Airways Limited,AUD,Industrials,Airlines,15548121088.0,9.49,9.63,1.75,0.36,5,5,4,1,3.9,A,Low,Approve,,QAN.AX
+QBE Insurance Group Limited,AUD,Financial Services,Insurance - Property & Casualty,29675368448.0,,11.14,,,0,5,0,0,5.0,AAA,Low,Unknown,Insufficient financial data to score (missing key line items/ratios).,QBE.AX
+QuickFee Limited,AUD,Technology,Software - Infrastructure,28132906.0,-0.02,-4.38,-54.38,1.05,1,1,5,2,2.4,B,High,Decline,DSCR below 1.0x; Interest coverage below 1.5x,QFE.AX
+Queste Communications Ltd,AUD,Financial Services,Asset Management,1516051.0,24159.44,24155.35,,2.51,5,5,0,5,5.0,AAA,Low,Approve,,QUE.AX
+Range International Limited,AUD,Basic Materials,Specialty Chemicals,5355341.0,-123.26,,,1.3,1,0,0,3,1.73,CCC,High,Decline,DSCR below 1.0x,RAN.AX
+Rapid Critical Metals Limited,AUD,Basic Materials,Other Industrial Metals & Mining,83170344.0,-2.07,-2.36,-1.2,0.03,1,1,5,1,2.2,B,High,Decline,DSCR below 1.0x; Interest coverage below 1.5x,RCM.AX
+REA Group Limited,AUD,Communication Services,Internet Content & Information,24295034880.0,3.39,86.18,0.07,2.14,5,5,5,5,5.0,AAA,Low,Approve,,REA.AX
+RAM Essential Services Property Fund,AUD,Financial Services,Asset Management,295628448.0,-0.53,-15.22,-17.37,4.19,1,1,5,5,3.0,BBB,Medium,Decline,DSCR below 1.0x; Interest coverage below 1.5x,REP.AX
+Retail Food Group Limited,AUD,Consumer Cyclical,Restaurants,94327640.0,-0.51,-2.56,-33.28,0.79,1,1,5,1,2.2,B,High,Decline,DSCR below 1.0x; Interest coverage below 1.5x,RFG.AX
+Rio Tinto Group,AUD,Basic Materials,Other Industrial Metals & Mining,240264921088.0,7.87,10.59,0.6,1.63,5,5,5,4,4.8,AAA,Low,Approve,,RIO.AX
+ResMed Inc.,AUD,Healthcare,Medical Instruments & Supplies,53000364032.0,48.08,,0.44,3.44,5,0,5,5,5.0,AAA,Low,Approve,,RMD.AX
+RMA Global Limited,AUD,Communication Services,Internet Content & Information,30559256.0,-14.8,-40.27,-0.45,0.53,1,1,5,1,2.2,B,High,Decline,DSCR below 1.0x; Interest coverage below 1.5x,RMY.AX
+RPM Automotive Group Limited,AUD,Consumer Cyclical,Auto Parts,14710831.0,3.32,4.12,3.31,1.39,5,4,3,3,3.85,A,Low,Approve,,RPM.AX
+Rumble Resources Limited,AUD,Basic Materials,Other Industrial Metals & Mining,55362036.0,-1126.22,,-0.02,1.08,1,0,5,2,2.65,BB,Medium,Decline,DSCR below 1.0x,RTR.AX
+South32 Limited,AUD,Basic Materials,Other Industrial Metals & Mining,16200003584.0,4.63,3.99,1.22,2.43,5,3,4,5,4.4,AA,Low,Approve,,S32.AX
+Star Combo Pharma Limited,AUD,Consumer Defensive,Household & Personal Products,34446140.0,11.96,6.1,1.45,3.72,5,5,4,5,4.7,AAA,Low,Approve,,S66.AX
+Scentre Group,AUD,Real Estate,REIT - Retail,21961117696.0,0.39,2.36,8.71,0.34,1,2,1,1,1.15,CCC,High,Decline,DSCR below 1.0x,SCG.AX
+Senetas Corporation Limited,AUD,Technology,Software - Infrastructure,39619964.0,-41.89,-54.84,,,1,1,0,0,1.0,CCC,High,Decline,DSCR below 1.0x; Interest coverage below 1.5x,SEN.AX
+Sequoia Financial Group Limited,AUD,Financial Services,Financial Conglomerates,34940116.0,44.21,555.35,0.43,2.59,5,5,5,5,5.0,AAA,Low,Approve,,SEQ.AX
+Schaffer Corporation Limited,AUD,Consumer Cyclical,Auto Parts,272359808.0,6.53,13.75,1.87,2.04,5,5,4,5,4.7,AAA,Low,Approve,,SFC.AX
+Sheffield Resources Limited,AUD,Basic Materials,Other Industrial Metals & Mining,26104802.0,-11024.0,-11024.0,,29.31,1,1,0,5,2.14,B,High,Decline,DSCR below 1.0x; Interest coverage below 1.5x,SFX.AX
+SGH Limited,AUD,,,19019024384.0,0.49,3.76,3.44,1.47,1,3,3,3,2.3,B,High,Decline,DSCR below 1.0x,SGH.AX
+Stockland,AUD,Real Estate,REIT - Diversified,14158746624.0,0.21,9.39,5.18,1.21,1,5,1,3,2.0,B,High,Decline,DSCR below 1.0x,SGP.AX
+Sonic Healthcare Limited,AUD,Healthcare,Diagnostics & Research,11130238976.0,0.88,7.33,3.07,1.17,1,5,3,2,2.4,B,High,Decline,DSCR below 1.0x,SHL.AX
+Sigma Healthcare Limited,AUD,Healthcare,Medical Distribution,34101243904.0,0.31,23.45,2.49,1.71,1,5,3,4,2.8,BB,Medium,Decline,DSCR below 1.0x,SIG.AX
+Stanmore Resources Limited,AUD,Basic Materials,Coking Coal,2154326016.0,1.61,5.14,0.96,1.14,4,5,5,2,4.05,AA,Low,Approve,,SMR.AX
+Summerset Group Holdings Limited,AUD,Healthcare,Medical Care Facilities,2477263360.0,13.89,14.77,4.31,0.29,5,5,2,1,3.3,BBB,Medium,Review,High leverage: Debt/EBITDA 4.31x; Tight liquidity: Current ratio 0.29x,SNZ.AX
+WHSP Holdings Limited,AUD,Financial Services,Capital Markets,13836674048.0,8.03,8.25,1.76,1.33,5,5,4,3,4.3,AA,Low,Approve,,SOL.AX
+Spark New Zealand Limited,AUD,Communication Services,Telecom Services,3720063232.0,3.51,4.54,2.27,1.35,5,4,3,3,3.85,A,Low,Approve,,SPK.AX
+Servcorp Limited,AUD,Real Estate,Real Estate Services,685041280.0,1.42,,2.47,0.83,3,0,3,1,2.53,BB,Medium,Decline,Tight liquidity: Current ratio 0.83x,SRV.AX
+Santos Limited,AUD,Energy,Oil & Gas E&P,19681503232.0,4.02,8.11,1.82,1.32,5,5,4,3,4.3,AA,Low,Approve,,STO.AX
+Step One Clothing Limited,AUD,Consumer Cyclical,Apparel Retail,60199472.0,1696.73,1666.27,,6.04,5,5,0,5,5.0,AAA,Low,Approve,,STP.AX
+Suncorp Group Limited,AUD,Financial Services,Insurance - Property & Casualty,19168526336.0,,5.39,,,0,5,0,0,5.0,AAA,Low,Unknown,Insufficient financial data to score (missing key line items/ratios).,SUN.AX
+Savannah Goldfields Limited,AUD,Basic Materials,Gold,36406812.0,-2.7,-4.16,-1.75,0.07,1,1,5,1,2.2,B,High,Decline,DSCR below 1.0x; Interest coverage below 1.5x,SVG.AX
+Solvar Limited,AUD,Financial Services,Credit Services,334293056.0,0.32,1.86,5.99,2.25,1,2,1,5,1.95,CCC,High,Decline,DSCR below 1.0x,SVR.AX
+360 Capital Mortgage REIT,AUD,Real Estate,REIT - Mortgage,52194932.0,,,,,0,0,0,0,,NR,Unknown,Unknown,Insufficient financial data to score (missing key line items/ratios).,TCF.AX
+Transurban Group,AUD,Industrials,Infrastructure Operations,45180055552.0,0.5,1.12,9.72,0.59,1,1,1,1,1.0,CCC,High,Decline,DSCR below 1.0x; Interest coverage below 1.5x,TCL.AX
+TerraCom Limited,AUD,Energy,Thermal Coal,53664740.0,-2.58,-6.78,-0.43,0.63,1,1,5,1,2.2,B,High,Decline,DSCR below 1.0x; Interest coverage below 1.5x,TER.AX
+Tian An Australia Limited,AUD,Real Estate,Real Estate - Development,29447004.0,0.47,1.26,64.12,1.89,1,1,1,4,1.6,CCC,High,Decline,DSCR below 1.0x; Interest coverage below 1.5x,TIA.AX
+Telstra Group Limited,AUD,Communication Services,Telecom Services,54473900032.0,1.28,6.35,2.1,0.56,3,5,3,1,2.9,BB,Medium,Review,Tight liquidity: Current ratio 0.56x,TLS.AX
+Telix Pharmaceuticals Limited,AUD,Healthcare,Biotechnology,3956443136.0,2.41,2.54,6.28,4.46,5,3,1,5,3.5,A,Low,Approve,,TLX.AX
+TPC Consolidated Limited,AUD,Utilities,Utilities - Diversified,68851152.0,0.22,2.21,3.39,1.67,1,2,3,4,2.35,B,High,Decline,DSCR below 1.0x,TPC.AX
+TPG Telecom Limited,AUD,Communication Services,Telecom Services,7508587520.0,1.16,-24.17,4.7,0.72,2,1,2,1,1.65,CCC,High,Decline,Interest coverage below 1.5x,TPG.AX
+Treasury Wine Estates Limited,AUD,Consumer Defensive,Beverages - Wineries & Distilleries,4416681472.0,2.16,3.67,2.14,2.02,5,3,3,5,4.1,AA,Low,Approve,,TWE.AX
+Tower Limited,AUD,Financial Services,Insurance - Property & Casualty,597753344.0,,41.57,,,0,5,0,0,5.0,AAA,Low,Unknown,Insufficient financial data to score (missing key line items/ratios).,TWR.AX
+VBXLIMITED FPO [VBX],AUD,Basic Materials,Aluminum,39890580.0,,,,,0,0,0,0,,NR,Unknown,Unknown,Insufficient financial data to score (missing key line items/ratios).,VBX.AX
+Vintage Energy Limited,AUD,Energy,Oil & Gas E&P,8347655.0,-0.63,-1.33,-6.39,0.38,1,1,5,1,2.2,B,High,Decline,DSCR below 1.0x; Interest coverage below 1.5x,VEN.AX
+Virgin Australia Holdings Ltd,AUD,Industrials,Airlines,2725236736.0,4.05,2.14,,0.45,5,2,0,1,3.21,BBB,Medium,Review,Low interest cover: ICR 2.14x; Tight liquidity: Current ratio 0.45x,VGN.AX
+Vitura Health Limited,AUD,Healthcare,Drug Manufacturers - Specialty & Generic,39101768.0,2.65,6.49,1.53,1.37,5,5,4,3,4.3,AA,Low,Approve,,VIT.AX
+Vita Life Sciences Limited,AUD,Healthcare,Drug Manufacturers - Specialty & Generic,138735696.0,57.32,61.48,0.04,3.06,5,5,5,5,5.0,AAA,Low,Approve,,VLS.AX
+Vmoto Limited,AUD,Consumer Cyclical,Recreational Vehicles,27198318.0,0.39,-0.22,6.85,2.47,1,1,1,5,1.8,CCC,High,Decline,DSCR below 1.0x; Interest coverage below 1.5x,VMT.AX
+WAM Capital Limited,AUD,Financial Services,Asset Management,2020595456.0,,,,,0,0,0,0,,NR,Unknown,Unknown,Insufficient financial data to score (missing key line items/ratios).,WAM.AX
+Waterco Limited,AUD,Industrials,Pollution & Treatment Controls,178632800.0,2.47,4.74,2.95,3.08,5,4,3,5,4.25,AA,Low,Approve,,WAT.AX
+Westpac Banking Corporation,AUD,Financial Services,Banks - Diversified,133077803008.0,,,,,0,0,0,0,,NR,Unknown,Unknown,Insufficient financial data to score (missing key line items/ratios).,WBC.AX
+Weebit Nano Limited,AUD,Technology,Semiconductors,1136315008.0,-1556.93,,-0.01,14.34,1,0,5,5,3.35,BBB,Medium,Decline,DSCR below 1.0x,WBT.AX
+Woodside Energy Group Ltd,AUD,Energy,Oil & Gas E&P,43991457792.0,12.1,14.04,1.23,1.29,5,5,4,3,4.3,AA,Low,Approve,,WDS.AX
+Wesfarmers Limited,AUD,Consumer Cyclical,Home Improvement Retail,92979650560.0,4.4,26.82,1.85,1.19,5,5,4,2,4.1,AA,Low,Approve,,WES.AX
+Whitehaven Coal Limited,AUD,Energy,Thermal Coal,6433492992.0,3.45,2.6,0.96,1.12,5,3,5,2,4.1,AA,Low,Approve,,WHC.AX
+Wellnex Life Limited,AUD,Consumer Defensive,Packaged Foods,6435904.0,-1.22,-5.15,-0.92,0.35,1,1,5,1,2.2,B,High,Decline,DSCR below 1.0x; Interest coverage below 1.5x,WNX.AX
+Woolworths Group Limited,AUD,Consumer Defensive,Grocery Stores,35805073408.0,2.04,6.7,3.81,0.57,5,5,2,1,3.3,BBB,Medium,Review,High leverage: Debt/EBITDA 3.81x; Tight liquidity: Current ratio 0.57x,WOW.AX
+WiseTech Global Limited,AUD,Technology,Software - Application,22863622144.0,0.86,24.21,0.25,1.02,1,5,5,2,3.0,BBB,Medium,Decline,DSCR below 1.0x,WTC.AX
+WT Financial Group Limited,AUD,Financial Services,Asset Management,47906012.0,4.94,6.3,1.19,1.18,5,5,4,2,4.1,AA,Low,Approve,,WTL.AX
+Wiseway Group Limited,AUD,Industrials,Integrated Freight & Logistics,37804832.0,3.78,5.66,2.86,1.31,5,5,3,3,4.0,AA,Low,Approve,,WWG.AX
+X2M Connect Limited,AUD,Technology,Scientific & Technical Instruments,9118240.0,-1.21,-5.71,-1.25,0.8,1,1,5,1,2.2,B,High,Decline,DSCR below 1.0x; Interest coverage below 1.5x,X2M.AX
+Xero Limited,AUD,Technology,Software - Application,19607083008.0,0.18,3.97,1.74,1.24,1,3,4,3,2.6,BB,Medium,Decline,DSCR below 1.0x,XRO.AX
+"Block, Inc.",AUD,Technology,Software - Infrastructure,61140103168.0,1.55,,3.84,2.33,4,0,2,5,3.53,A,Low,Approve,,XYZ.AX
+Yancoal Australia Ltd,AUD,Energy,Thermal Coal,6516368384.0,67.49,55.48,0.05,2.87,5,5,5,5,5.0,AAA,Low,Approve,,YAL.AX

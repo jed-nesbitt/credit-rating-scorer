@@ -1,0 +1,15 @@
+{
+  "name": "Tower Limited",
+  "currency": "AUD",
+  "sector": "Financial Services",
+  "industry": "Insurance - Property & Casualty",
+  "market_cap": 597753344,
+  "ebitda": NaN,
+  "ebit": 120649000.0,
+  "interest_expense": 2902000.0,
+  "total_debt": 25546000.0,
+  "current_assets": NaN,
+  "current_liabilities": NaN,
+  "annual_debt_service": 4179300.0,
+  "_cache_version": 2
+}

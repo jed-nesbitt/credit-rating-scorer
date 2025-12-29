@@ -1,0 +1,15 @@
+{
+  "name": "EQT Holdings Limited",
+  "currency": "AUD",
+  "sector": "Financial Services",
+  "industry": "Asset Management",
+  "market_cap": 633610816,
+  "ebitda": 61757000.0,
+  "ebit": 54402000.0,
+  "interest_expense": 5601000.0,
+  "total_debt": 82960000.0,
+  "current_assets": NaN,
+  "current_liabilities": NaN,
+  "annual_debt_service": 12951000.0,
+  "_cache_version": 2
+}

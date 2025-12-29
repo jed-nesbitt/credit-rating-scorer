@@ -1,0 +1,15 @@
+{
+  "name": "TPC Consolidated Limited",
+  "currency": "AUD",
+  "sector": "Utilities",
+  "industry": "Utilities - Diversified",
+  "market_cap": 68851152,
+  "ebitda": 3048358.0,
+  "ebit": 1819653.0,
+  "interest_expense": 822527.0,
+  "total_debt": 10348052.0,
+  "current_assets": 62752330.0,
+  "current_liabilities": 37499408.0,
+  "annual_debt_service": 13604024.0,
+  "_cache_version": 2
+}

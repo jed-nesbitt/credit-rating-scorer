@@ -3,12 +3,13 @@
   "currency": "AUD",
   "sector": "Industrials",
   "industry": "Security & Protection Services",
-  "market_cap": 10746586,
+  "market_cap": 9851037,
   "ebitda": -1818988.0,
   "ebit": -2294406.0,
   "interest_expense": 186498.0,
   "total_debt": 826467.0,
-  "current_assets": NaN,
-  "current_liabilities": NaN,
-  "annual_debt_service": 387816.0
+  "current_assets": 12673129.0,
+  "current_liabilities": 7162810.0,
+  "annual_debt_service": 387816.0,
+  "_cache_version": 2
 }

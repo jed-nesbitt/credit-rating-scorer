@@ -1,0 +1,15 @@
+{
+  "name": "Marvel Gold Limited",
+  "currency": "AUD",
+  "sector": "Basic Materials",
+  "industry": "Gold",
+  "market_cap": 22711346,
+  "ebitda": -1203061.0,
+  "ebit": -1206805.0,
+  "interest_expense": NaN,
+  "total_debt": NaN,
+  "current_assets": 550992.0,
+  "current_liabilities": 451337.0,
+  "annual_debt_service": NaN,
+  "_cache_version": 2
+}

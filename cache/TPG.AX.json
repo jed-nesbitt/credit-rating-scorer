@@ -1,0 +1,15 @@
+{
+  "name": "TPG Telecom Limited",
+  "currency": "AUD",
+  "sector": "Communication Services",
+  "industry": "Telecom Services",
+  "market_cap": 7508587520,
+  "ebitda": 1340000000.0,
+  "ebit": -145000000.0,
+  "interest_expense": 6000000.0,
+  "total_debt": 6304000000.0,
+  "current_assets": 1161000000.0,
+  "current_liabilities": 1606000000.0,
+  "annual_debt_service": 1156000000.0,
+  "_cache_version": 2
+}

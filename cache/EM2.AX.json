@@ -1,0 +1,15 @@
+{
+  "name": "Eagle Mountain Mining Limited",
+  "currency": "AUD",
+  "sector": "Basic Materials",
+  "industry": "Other Industrial Metals & Mining",
+  "market_cap": 11870436,
+  "ebitda": -14385586.0,
+  "ebit": -14731329.0,
+  "interest_expense": 524925.0,
+  "total_debt": 10551128.0,
+  "current_assets": 1182006.0,
+  "current_liabilities": 2452427.0,
+  "annual_debt_service": 1430794.0,
+  "_cache_version": 2
+}

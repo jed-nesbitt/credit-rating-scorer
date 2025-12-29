@@ -1,0 +1,15 @@
+{
+  "name": "Newmont Corporation",
+  "currency": "AUD",
+  "sector": "Basic Materials",
+  "industry": "Gold",
+  "market_cap": 178499780608,
+  "ebitda": 7528000000.0,
+  "ebit": 4952000000.0,
+  "interest_expense": 375000000.0,
+  "total_debt": 8972000000.0,
+  "current_assets": 12275000000.0,
+  "current_liabilities": 7543000000.0,
+  "annual_debt_service": 4322000000.0,
+  "_cache_version": 2
+}

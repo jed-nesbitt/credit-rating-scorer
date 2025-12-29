@@ -1,0 +1,15 @@
+{
+  "name": "Carlton Investments Ltd.",
+  "currency": "AUD",
+  "sector": "Financial Services",
+  "industry": "Asset Management",
+  "market_cap": 911960384,
+  "ebitda": NaN,
+  "ebit": NaN,
+  "interest_expense": 12000.0,
+  "total_debt": NaN,
+  "current_assets": NaN,
+  "current_liabilities": NaN,
+  "annual_debt_service": 12000.0,
+  "_cache_version": 2
+}

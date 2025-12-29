@@ -1,0 +1,15 @@
+{
+  "name": "Neometals Ltd",
+  "currency": "AUD",
+  "sector": "Industrials",
+  "industry": "Waste Management",
+  "market_cap": 48540968,
+  "ebitda": -17268504.0,
+  "ebit": -17714787.0,
+  "interest_expense": 226401.0,
+  "total_debt": 4502936.0,
+  "current_assets": 19644442.0,
+  "current_liabilities": 1981193.0,
+  "annual_debt_service": 451547.80000000005,
+  "_cache_version": 2
+}
